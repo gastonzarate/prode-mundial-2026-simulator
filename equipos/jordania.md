@@ -21,7 +21,7 @@
 - Defensa: 68
 - Arco: 70
 - Físico: 76
-- Moral: 59
+- Moral: 82
 - Cohesión: 80
 - Experiencia: 50
 - Agallas: 65
@@ -60,39 +60,26 @@
 4-2-3-1: Abulaila; Al-Ajalin, Y. Al-Arab, B. Marei, Rateb; N. Al-Rawabdeh, M. Al-Mardi; Olwan, Al-Tamari, M. Al-Mawas; Y. Al-Naimat.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Argelia: 1-2 (D) — Grupo J J2 Mundial 2026
-- 2026-06-17 vs Austria: 1-3 (D) — Grupo J J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Irak: 0-0 (E)
 - 2026-03-XX vs Surinam: 1-0 (V)
 - 2025-11-XX vs Catar: 1-1 (E)
+- 2025-10-XX vs Omán: 4-0 (V)
+- 2025-09-XX vs Kuwait: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 43/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 2  | 5  | −3 | 0   |
+| 3 | 0 | 1 | 2 | 0 | 5 | −5 | 1 |
 
 ### Goleadores propios
-- Ali Olwan: 1 gol (vs Austria, 50', J1)
-- Nizar Al-Rashdan: 1 gol (vs Argelia, 36', J2)
+- —
 
-## Historial vs rivales del grupo
-- vs Argentina: sin antecedentes registrados.
-- vs Argelia: sin antecedentes registrados.
-- vs Austria: 0V-0E-1D. Único partido: 2026-06-17, 0-2 (Grupo J, J1 Mundial).
-
-## Estado de ánimo
-Dos derrotas en su primer Mundial (1-3 con Austria y 1-2 con Argelia) y eliminación matemática sin sumar puntos. Marcaron en ambos partidos y compitieron, pero el salto de nivel les pasó factura.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Jordania 0-2 Austria
-- **Real:** Jordania 1-3 Austria
-- **Diagnóstico:** Simulamos derrota 0-2 pero fue 1-3 — Jordania anotó un gol de honor que no esperábamos, aunque la derrota era previsible.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (JFA).
+### Disciplina y disponibilidad
+- Amarillas: Yazan Al-Arab (2026-06-17 vs Austria); Ali Olwan (2026-06-17 vs Austria); Salem Al-Ajalin (2026-06-22 vs Argelia); Yazan Al-Arab (2026-06-22 vs Argelia); Salem Al-Ajalin (2026-06-27 vs Argentina); Yazan Al-Arab (2026-06-27 vs Argentina)
+- Lesiones / molestias: —

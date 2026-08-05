@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 72
-- Moral: 74
+- Moral: 80
 - Cohesión: 80
 - Experiencia: 50
 - Agallas: 75
@@ -31,68 +31,64 @@
 |---|---------|-----|------|------|--------|---------|--------|---------|--------|
 | 1 | Vozinha | ARQ | 39 | Carregado | 10 | 72 | 61 | 61 | 100% |
 | 12 | Márcio Rosa | ARQ | 35 | Mafra | 10 | 70 | 60 | 60 | 100% |
-| 23 | Bruno Varela | ARQ | 31 | Vitória Guimarães | 10 | 76 | 65 | 65 | 95% |
+| 23 | Bruno Varela | ARQ | 31 | Vitória Guimarães | 10 | 76 | 65 | 65 | 100% |
 | 2 | Stopira | DEF | 38 | Belenenses | 22 | 72 | 68 | 58 | 100% |
-| 3 | Roberto Lopes | DEF | 33 | Shamrock Rovers | 22 | 73 | 69 | 58 | 95% |
-| 4 | Diney Borges | DEF | 27 | Boavista | 22 | 72 | 68 | 58 | 95% |
+| 3 | Roberto Lopes | DEF | 33 | Shamrock Rovers | 22 | 73 | 69 | 58 | 100% |
+| 4 | Diney Borges | DEF | 27 | Boavista | 22 | 72 | 68 | 58 | 100% |
 | 5 | Jeffry Fortes | DEF | 30 | Famalicão | 22 | 73 | 69 | 58 | 100% |
-| 13 | Jeffry Sá | DEF | 28 | Sirius | 22 | 72 | 68 | 58 | 95% |
+| 13 | Jeffry Sá | DEF | 28 | Sirius | 22 | 72 | 68 | 58 | 100% |
 | 14 | Sidny Cabral | DEF | 27 | Olympiakos | 22 | 73 | 69 | 58 | 100% |
-| 15 | Joao Paulo | DEF | 32 | Wisła Kraków | 22 | 72 | 68 | 58 | 98% |
-| 16 | Geny Catamo | DEF | 24 | Sporting CP | 23 | 75 | 71 | 60 | 95% |
+| 15 | Joao Paulo | DEF | 32 | Wisła Kraków | 22 | 72 | 68 | 58 | 100% |
+| 16 | Geny Catamo | DEF | 24 | Sporting CP | 23 | 75 | 71 | 60 | 100% |
 | 22 | Edmilson Correia | DEF | 24 | Boavista | 22 | 72 | 68 | 58 | 100% |
-| 6 | Kenny Rocha Santos | VOL | 30 | Estoril | 52 | 52 | 70 | 74 | 95% |
+| 6 | Kenny Rocha Santos | VOL | 30 | Estoril | 52 | 52 | 70 | 74 | 100% |
 | 8 | Steven Moreira | VOL | 31 | Columbus Crew | 52 | 50 | 70 | 74 | 100% |
-| 10 | Ryan Mendes (C) | VOL | 36 | Trabzonspor | 60 | 35 | 65 | 80 | 95% |
-| 11 | Garry Rodrigues | VOL | 35 | Hatayspor | 60 | 35 | 67 | 80 | 95% |
-| 17 | Jovane Cabral | VOL | 27 | Estrela Amadora | 60 | 35 | 70 | 80 | 95% |
-| 18 | Patrick Andrade | VOL | 32 | AEK Larnaca | 53 | 53 | 70 | 75 | 98% |
-| 19 | Bryan Teixeira | VOL | 26 | Estoril | 50 | 50 | 70 | 71 | 98% |
-| 20 | Yannick Semedo | VOL | 27 | UTA Arad | 50 | 50 | 70 | 71 | 99% |
+| 10 | Ryan Mendes (C) | VOL | 36 | Trabzonspor | 60 | 35 | 65 | 80 | 100% |
+| 11 | Garry Rodrigues | VOL | 35 | Hatayspor | 60 | 35 | 67 | 80 | 100% |
+| 17 | Jovane Cabral | VOL | 27 | Estrela Amadora | 60 | 35 | 70 | 80 | 100% |
+| 18 | Patrick Andrade | VOL | 32 | AEK Larnaca | 53 | 53 | 70 | 75 | 100% |
+| 19 | Bryan Teixeira | VOL | 26 | Estoril | 50 | 50 | 70 | 71 | 100% |
+| 20 | Yannick Semedo | VOL | 27 | UTA Arad | 50 | 50 | 70 | 71 | 100% |
 | 21 | Logan Costa | VOL | 24 | Toulouse | 53 | 53 | 70 | 75 | 100% |
-| 7 | Bebé | DEL | 35 | Rayo Vallecano | 74 | 22 | 73 | 70 | 95% |
-| 9 | Garry Mendes Rodrigues | DEL | 35 | Hatayspor | 74 | 22 | 71 | 70 | 98% |
-| 24 | Willy Semedo | DEL | 27 | Famalicão | 70 | 21 | 71 | 67 | 98% |
+| 7 | Bebé | DEL | 35 | Rayo Vallecano | 74 | 22 | 73 | 70 | 100% |
+| 9 | Garry Mendes Rodrigues | DEL | 35 | Hatayspor | 74 | 22 | 71 | 70 | 100% |
+| 24 | Willy Semedo | DEL | 27 | Famalicão | 70 | 21 | 71 | 67 | 100% |
 | 25 | Dailon Livramento | DEL | 23 | Estrela Amadora | 70 | 21 | 70 | 67 | 100% |
-| 26 | Carlitos | DEL | 35 | Apollon Limassol | 70 | 21 | 70 | 67 | 99% |
+| 26 | Carlitos | DEL | 35 | Apollon Limassol | 70 | 21 | 70 | 67 | 100% |
 
 ## XI titular probable
 4-3-3: Bruno Varela; Catamo, R. Lopes, Borges, J. Sá; K. Rocha, P. Andrade, Mendes; G. Rodrigues, Bebé, J. Cabral.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-21 vs Uruguay: 2-2 (E) — Grupo H J2 Mundial 2026
-- 2026-06-15 vs España: 0-0 (E) — Grupo H J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Esuatini: 3-0 (V)
 - 2026-03-XX vs Camerún: 0-1 (D)
 - 2025-11-XX vs Libia: 1-0 (V)
+- 2025-10-XX vs Mauricio: 2-1 (V)
+- 2025-09-XX vs Angola: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 52/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 2 | 0 | 2  | 2  | 0  | 2   |
+| 3 | 0 | 1 | 2 | 1 | 5 | −4 | 1 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Argentina | 0-3 | Eliminado |
 
 ### Goleadores propios
-- Kevin Pina: 1 gol (vs Uruguay, 21', J2)
-- Hélio Varela: 1 gol (vs Uruguay, 61', J2)
+- Bebé: 1 gol (39' vs Arabia Saudita)
 
-## Historial vs rivales del grupo
-- vs España: 0V-1E-0D (2026-06-15: 0-0 · Mundial J1).
-- vs Arabia Saudita: sin antecedentes registrados.
-- vs Uruguay: sin antecedentes registrados.
+### Disciplina en eliminatorias
+- Amarillas: Ryan Mendes (2026-07-03 vs Argentina)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
-## Estado de ánimo
-Debut soñado: 0-0 ante España y luego un 2-2 vs Uruguay remando dos veces en desventaja (Pina y Varela marcaron). Cuatro de seis puntos posibles ante dos potencias; los Tubarões Azuis siguen invictos y con chances reales de avanzar.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** España 4-0 Cabo Verde
-- **Real:** España 0-0 Cabo Verde
-- **Diagnóstico:** El mayor acierto inesperado: lograron lo que nunca les dimos posibilidades — resistir 90' sin goles ante España gracias a un bloque defensivo que el simulador ignoró.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (CAF, Federación Caboverdiana).
+### Disciplina y disponibilidad
+- Amarillas: Jeffry Fortes (2026-06-15 vs España); Steven Moreira (2026-06-15 vs España); Stopira (2026-06-21 vs Uruguay); Roberto Lopes (2026-06-21 vs Uruguay); Stopira (2026-06-26 vs Arabia Saudita); Roberto Lopes (2026-06-26 vs Arabia Saudita)
+- Lesiones / molestias: Vozinha: molestia muscular leve tras 2026-06-15

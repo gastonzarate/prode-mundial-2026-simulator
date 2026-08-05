@@ -1,28 +1,57 @@
-# 🇸🇦 Arabia Saudita 1-1 Uruguay 🇺🇾
-**Grupo H · Jornada 1 · 2026-06-15 · Hard Rock Stadium, Miami Gardens · RESULTADO REAL**
+# Arabia Saudita 0-2 Uruguay
 
-## Síntesis
-Arabia Saudita y Uruguay igualaron 1-1 en Miami Gardens en el debut de ambos por el Grupo H. Abdulelah Al-Amri adelantó a los saudíes a los 41', mientras que Maximiliano Araújo rescató el empate para la Celeste de Bielsa a los 80'. Un punto que dejó a los dos equipos sin sumar de a tres en el arranque.
+## Metadata
+- Fecha: 2026-06-15
+- Hora: 18:00
+- Sede: Hard Rock Stadium, Miami Gardens
+- Grupo: H
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 41' ⚽ Abdulelah Al-Amri (Arabia Saudita)
-- 44' 🟨 Abdulelah Al-Amri (Arabia Saudita)
-- 80' ⚽ Maximiliano Araújo (Uruguay)
-- 20' 🟨 Rodrigo Bentancur (Uruguay)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 41' Abdulelah Al-Amri (Arabia Saudita)
-- 80' Maximiliano Araújo (Uruguay)
+## Probabilidades previas
+- Gana Arabia Saudita: 18%
+- Empate: 25%
+- Gana Uruguay: 57%
 
-## Formaciones (reales)
-- Arabia Saudita (DT Georgios Donis): Mohammed Al-Owais; Saud Abdulhamid, Hassan Al-Tambakti, Abdulelah Al-Amri, Moteb Al-Harbi; Mohammed Abu Al-Shamat, Mohamed Kanno, Abdullah Al-Khaibari; Salem Al-Dawsari (c), Firas Al-Buraikan, Musab Al-Juwayr.
-- Uruguay (DT Marcelo Bielsa): Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Matías Viña; Federico Valverde (c), Manuel Ugarte, Rodrigo Bentancur; Maximiliano Araújo, Federico Viñas, Darwin Núñez.
+## XI inicial
+- Arabia Saudita: Al-Owais, S. Al-Ghannam, Al-Bulayhi, Al-Tambakti; Al-Shahrani, Kanno, S. Al-Faraj, Sharahili; S. Al-Dawsari, F. Al-Buraikan, S. Al-Shehri
+- Uruguay: Rochet, G. Varela, Araújo, Giménez; Olivera, Ugarte, Bentancur, Valverde; Pellistri, D. Núñez, M. Araújo
 
-## Ficha
-- Sede: Hard Rock Stadium, Miami Gardens · Asistencia: 62.764 · Árbitro: Maurizio Mariani (Italia) · Estadísticas de juego no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en Hard Rock Stadium, Miami Gardens.
+- 25' Gol de Uruguay: Nicolás de la Cruz define y deja el partido 0-1.
+- 30' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 40' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 50' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 88' Gol de Uruguay: Luciano Rodríguez define y deja el partido 0-2.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Arabia Saudita 1-1 Uruguay · Real: Arabia Saudita 1-1 Uruguay
-- El ÚNICO resultado que el Prode acertó exacto en toda la J1: empate 1-1 clavado.
+## Goles
+- Arabia Saudita: —
+- Uruguay: Nicolás de la Cruz 25', Luciano Rodríguez 88'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group H
+## Tarjetas
+- Arabia Saudita: Sultan Al-Ghannam, Saud Abdulhamid, Abdulelah Al-Amri
+- Uruguay: Ronald Araújo, Nicolás de la Cruz
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Arabia Saudita: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Uruguay: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Arabia Saudita | 42% | 9 | 5 | 6 | 10 |
+| Uruguay | 58% | 18 | 7 | 6 | 13 |
+
+## MVP
+- Nicolás de la Cruz
+
+## Resumen final
+Arabia Saudita y Uruguay abrieron su participación en el Grupo H con un 0-2. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

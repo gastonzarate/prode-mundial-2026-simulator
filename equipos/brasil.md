@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 92
 - Físico: 82
-- Moral: 88 *(goleada J2 vs Haití)*
+- Moral: 87
 - Cohesión: 80
 - Experiencia: 86
 - Agallas: 82
@@ -60,39 +60,48 @@
 4-3-3: Alisson; Vanderson, Marquinhos, Magalhães, C. Henrique; Casemiro, Bruno G., Paquetá; Raphinha, Vinícius, Neymar.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- Raphinha: baja por lesión muscular.
+- Neymar: recuperado, disponible desde el banco.
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-19 vs Haití: 3-0 (V) — Grupo C J2 Mundial 2026
-- 2026-06-13 vs Marruecos: 1-1 (E) — Grupo C J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Colombia: 2-1 (V)
 - 2026-03-XX vs Argentina: 0-1 (D)
 - 2025-11-XX vs Uruguay: 2-0 (V)
+- 2025-10-XX vs Chile: 3-0 (V)
+- 2025-09-XX vs Ecuador: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 70/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 4  | 1  | +3 | 4   |
+| 3 | 2 | 0 | 1 | 5 | 3 | +2 | 6 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Noruega | 2-1 | Clasificado a cuartos |
+| Ronda de 32 | Japón | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Vinícius Júnior: 2 goles (vs Marruecos, 32', J1; vs Haití, 45+3', J2)
-- Matheus Cunha: 2 goles (vs Haití, 23' y 36', J2)
+- Vinícius Jr.: 1 gol (82' vs Haití)
+- Richarlison: 1 gol (88' vs Haití)
+- Neymar: 1 gol (14' vs Haití)
 
-## Historial vs rivales del grupo
-- vs Marruecos: amistoso 2023 derrota 1-2; **Mundial 2026 J1: Empate 1-1**.
-- vs Escocia: balance histórico favorable a Brasil 3V-1E-1D.
-- vs Haití: sin antecedentes mundialistas relevantes.
+- Vinícius Jr.: 1 gol (82' vs Escocia)
+- Richarlison: 1 gol (88' vs Escocia)
+- Vinícius Jr.: 1 gol (22' vs Japón, ronda de 32)
+- Matheus Cunha: 1 gol (68' vs Japón, ronda de 32)
 
-## Estado de ánimo
-Tras el empate 1-1 vs Marruecos, la Seleção se reencontró con la goleada: 3-0 a Haití con doblete de Matheus Cunha y cierre de Vinícius. Líder provisional del Grupo C con 4 puntos y el ataque recuperando confianza.
+- Vinícius Júnior: 1 gol (22' vs Noruega, octavos de final)
+- Raphinha: 1 gol (76' vs Noruega, octavos de final)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Brasil 2-1 Marruecos
-- **Real:** Brasil 1-1 Marruecos
-- **Diagnóstico:** Simulamos victoria 2-1 pero fue 1-1; sobreestimamos la brecha Brasil-Marruecos sin considerar la mejora defensiva marroquí desde Qatar 2022.
+### Disciplina en eliminatorias
+- Amarillas: Marquinhos (2026-07-05 vs Noruega)
+- Amarillas: Casemiro (2026-06-29 vs Japón)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
----
-> Fuente: WebSearch 2026-05-27 (FIFA, DAZN, ESPN).
+### Disciplina y disponibilidad
+- Amarillas: Lucas Paquetá (2026-06-13 vs Marruecos); Wesley (2026-06-13 vs Marruecos); Danilo (2026-06-19 vs Haití); Marquinhos (2026-06-19 vs Haití); Danilo (2026-06-24 vs Escocia); Marquinhos (2026-06-24 vs Escocia)
+- Lesiones / molestias: —

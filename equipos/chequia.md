@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 76
-- Moral: 71
+- Moral: 70
 - Cohesión: 68
 - Experiencia: 70
 - Agallas: 68
@@ -60,39 +60,28 @@
 4-2-3-1: Staněk; Coufal, Krejčí, Hranáč, Jurásek; Souček, Provod; Hložek, Barák, Šulc; Schick.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo / Capilla
-Tras la derrota 1-2 vs Corea del Sur, empató 1-1 vs Sudáfrica (Sadílek 6') pero dejó escapar la ventaja con un penal sobre la hora. Apenas 1 punto en el Grupo A.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs Sudáfrica: 1-1 (E) — Grupo A J2 Mundial 2026
-- 2026-06-11 vs Corea del Sur: 1-2 (D) — Grupo A J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Eslovaquia: 2-1 (V)
 - 2026-03-XX vs Suecia: 1-1 (E)
 - 2025-11-XX vs San Marino: 4-0 (V)
+- 2025-11-XX vs Ucrania: 1-0 (V)
+- 2025-10-XX vs Polonia: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 41/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 2  | 3  | −1 | 1   |
+| 3 | 0 | 2 | 1 | 2 | 3 | −1 | 2 |
 
 ### Goleadores propios
-- Ladislav Krejčí: 1 gol (vs Corea del Sur, 59', J1)
-- Michal Sadílek: 1 gol (vs Sudáfrica, 6', J2)
+- Mojmír Chytil: 1 gol (88' vs Sudáfrica)
 
-## Historial vs rivales del grupo
-- vs México: 1-1 amistoso 2014, sin antecedentes mundialistas.
-- vs Sudáfrica: sin antecedentes registrados.
-- vs Corea del Sur: 2-0 derrota chequia amistoso 2018.
+- Mojmír Chytil: 1 gol (88' vs México)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Chequia 1-1 Corea del Sur
-- **Real:** Chequia 1-2 Corea del Sur
-- **Diagnóstico:** Simulamos empate (1-1) cuando en realidad perdieron 1-2; la cohesión coreana fue subestimada.
-
----
-> Fuente: WebSearch 2026-05-27 (Olympics.com, FourFourTwo).
+### Disciplina y disponibilidad
+- Amarillas: David Douděra (2026-06-11 vs Corea del Sur); Antonín Barák (2026-06-11 vs Corea del Sur); Vladimír Coufal (2026-06-18 vs Sudáfrica); Tomáš Holeš (2026-06-18 vs Sudáfrica); Vladimír Coufal (2026-06-24 vs México); Tomáš Holeš (2026-06-24 vs México)
+- Lesiones / molestias: Vladimír Coufal: molestia muscular leve tras 2026-06-11

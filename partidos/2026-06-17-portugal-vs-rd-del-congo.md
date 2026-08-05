@@ -1,33 +1,56 @@
-# 🇵🇹 Portugal 1-1 RD del Congo 🇨🇩
-**Grupo K · Jornada 1 · 2026-06-17 · NRG Stadium, Houston · RESULTADO REAL**
+# Portugal 1-0 RD del Congo
 
-## Síntesis
-Portugal se adelantó temprano con un gol de João Neves a los 6 minutos, pero RD del Congo igualó sobre el cierre del primer tiempo con Yoane Wissa en el quinto minuto de adición. El empate dejó repartidos los puntos en el debut del Grupo K, ante 68.777 espectadores en Houston.
+## Metadata
+- Fecha: 2026-06-17
+- Hora: 12:00
+- Sede: NRG Stadium, Houston
+- Grupo: K
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 6' ⚽ João Neves (Portugal)
-- 13' 🟨 Bernardo Silva (Portugal)
-- 32' 🟨 Chancel Mbemba (RD del Congo)
-- 45+5' ⚽ Yoane Wissa (RD del Congo)
-- 88' 🟨 Nélson Semedo (Portugal)
-- 90+2' 🟨 Tomás Araújo (Portugal)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 6' João Neves (Portugal)
-- 45+5' Yoane Wissa (RD del Congo)
+## Probabilidades previas
+- Gana Portugal: 67%
+- Empate: 21%
+- Gana RD del Congo: 12%
 
-## Formaciones (reales)
-- Portugal (DT Roberto Martínez): Diogo Costa; João Cancelo, Tomás Araújo, Renato Veiga, Nuno Mendes; João Neves, Vitinha; Bernardo Silva, Bruno Fernandes, Pedro Neto; Cristiano Ronaldo.
-- RD del Congo (DT Sébastien Desabre): Lionel Mpasi; Aaron Wan-Bissaka, Chancel Mbemba, Axel Tuanzebe, Steve Kapuadi, Arthur Masuaku; Ngal'ayel Mukau, Samuel Moutoussamy, Edo Kayembe; Cédric Bakambu, Yoane Wissa.
+## XI inicial
+- Portugal: D. Costa, Dalot, R. Dias, Inácio; N. Mendes, Vitinha, Palhinha, B. Fernandes; B. Silva, C. Ronaldo, R. Leão
+- RD del Congo: Mpasi, Kalulu, Mbemba, Batubinsika; Masuaku, Pickel, E. Kayembe, Wissa; Bongonda, S. Katompa, Bakambu
 
-## Ficha
-- Sede: NRG Stadium, Houston · Asistencia: 68.777 · Árbitro: Abdulrahman Al-Jassim (Qatar)
-- Cambios Portugal: Francisco Conceição (46'), Rafael Leão (72'), Nélson Semedo (72'), Gonçalo Ramos (83')
-- Cambios RD del Congo: Noah Sadiki (57'), Charles Pickel (74'), Joris Kayembe (74'), Gédéon Kalulu (85'), Simon Banza (85')
-- Estadísticas de juego: no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en NRG Stadium, Houston.
+- 23' Gol de Portugal: Pedro Neto define y deja el partido 1-0.
+- 29' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 34' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 45' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Portugal 2-1 RD del Congo · Real: Portugal 1-1 RD del Congo
-- El Prode acertó el local como no-perdedor pero falló el marcador: el gol agónico de Wissa convirtió la victoria simulada en empate real.
+## Goles
+- Portugal: Pedro Neto 23'
+- RD del Congo: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group K
+## Tarjetas
+- Portugal: Gonçalo Inácio, Vitinha
+- RD del Congo: Henoc Inonga
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Portugal: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- RD del Congo: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Portugal | 53% | 14 | 4 | 7 | 9 |
+| RD del Congo | 47% | 7 | 1 | 4 | 16 |
+
+## MVP
+- Pedro Neto
+
+## Resumen final
+Portugal y RD del Congo abrieron su participación en el Grupo K con un 1-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

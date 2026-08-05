@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 74
 - Físico: 76
-- Moral: 65
+- Moral: 74
 - Cohesión: 82
 - Experiencia: 70
 - Agallas: 72
@@ -60,38 +60,26 @@
 4-3-3: Al-Owais; S. Al-Ghannam, Al-Bulayhi, Al-Tambakti, Al-Shahrani; Kanno, S. Al-Faraj, Sharahili; S. Al-Dawsari, F. Al-Buraikan, S. Al-Shehri.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-21 vs España: 0-4 (P) — Grupo H J2 Mundial 2026
-- 2026-06-15 vs Uruguay: 1-1 (E) — Mundial Grupo H J1 🌧 empate heroico con penal de Al-Dawsari
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Australia: 0-0 (E)
 - 2026-03-XX vs Indonesia: 2-0 (V)
 - 2025-11-XX vs Bahréin: 3-0 (V)
+- 2025-10-XX vs Japón: 0-2 (D)
+- 2025-09-XX vs China: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 42/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 1  | 5  | -4 | 1   |
+| 3 | 0 | 1 | 2 | 1 | 6 | −5 | 1 |
 
 ### Goleadores propios
-- Abdulelah Al-Amri: 1 gol (vs Uruguay, 41', J1)
+- Saleh Al-Shehri: 1 gol (82' vs Cabo Verde)
 
-## Historial vs rivales del grupo
-- vs España: 2-2 amistoso 2018.
-- vs Cabo Verde: sin antecedentes registrados.
-- vs Uruguay: Mundial 2018 (derrota 0-1) · Mundial 2026 J1 (1-1 🌧 empate histórico).
-
-## Estado de ánimo
-Tras el heroico 1-1 vs Uruguay, la J2 fue un baño de realidad: goleada 0-4 ante España, con un autogol de Al-Tambakti incluido. La ilusión del debut se apagó y el equipo de Renard queda al borde de la eliminación.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Arabia Saudita 1-1 Uruguay
-- **Real:** Arabia Saudita 1-1 Uruguay
-- **Diagnóstico:** Resultado exacto 1-1 — el único match que el simulador acertó perfectamente en toda la Jornada 1.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (SAFF).
+### Disciplina y disponibilidad
+- Amarillas: Sultan Al-Ghannam (2026-06-15 vs Uruguay); Saud Abdulhamid (2026-06-15 vs Uruguay); Abdulelah Al-Amri (2026-06-15 vs Uruguay); Sultan Al-Ghannam (2026-06-21 vs España); Yasser Al-Shahrani (2026-06-21 vs España); Sultan Al-Ghannam (2026-06-26 vs Cabo Verde); Yasser Al-Shahrani (2026-06-26 vs Cabo Verde)
+- Lesiones / molestias: —

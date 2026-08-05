@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 86
 - Físico: 78
-- Moral: 75
+- Moral: 80
 - Cohesión: 78
 - Experiencia: 84
 - Agallas: 72
@@ -60,38 +60,53 @@
 4-3-3: Courtois; Castagne, Debast, Theate, De Cuyper; Tielemans, Onana, De Bruyne; Doku, Lukaku, Openda.
 
 ## Lesionados / Suspendidos
-- Nathan Ngoy: suspendido para J3 (roja vs Irán, 66').
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incluyendo Mundial)
-- 2026-06-21 vs Irán: 0-0 (E) — Grupo G J2 Mundial 2026
-- 2026-06-15 vs Egipto: 1-1 (E) — Grupo G J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Macedonia del Norte: 4-0 (V)
 - 2026-03-XX vs Eslovenia: 2-1 (V)
 - 2025-11-XX vs Israel: 0-0 (E)
+- 2025-10-XX vs Estonia: 5-1 (V)
+- 2025-09-XX vs Austria: 0-1 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 80/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 2 | 0 | 1  | 1  | 0  | 2   |
+| 3 | 2 | 1 | 0 | 4 | 1 | +3 | 7 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Cuartos de final | España | 1-2 | Eliminado en cuartos |
+| Octavos de final | Estados Unidos | 2-1 | Clasificado a cuartos |
+| Ronda de 32 | Senegal | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Sin goles propios en el Mundial (el 1-1 vs Egipto fue autogol rival).
+- Jérémy Doku: 1 gol (88' vs Irán)
+- Romelu Lukaku: 1 gol (14' vs Irán)
 
-## Historial vs rivales del grupo
-- vs Egipto: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: balance equilibrado.
-- vs Irán: amistoso 2014: 1-0 victoria belga.
-- vs Nueva Zelanda: sin antecedentes registrados.
+- Jérémy Doku: 1 gol (88' vs Nueva Zelanda)
+- Romelu Lukaku: 1 gol (14' vs Nueva Zelanda)
 
-## Estado de ánimo
-Dos empates sin brillo: 1-1 vs Egipto y 0-0 vs Irán. La Bélgica post-Generación Dorada no encuentra el gol y suma apenas 2 puntos en un grupo que se esperaba dominar. La roja de Ngoy complica la última fecha.
+- Romelu Lukaku: 1 gol (28' vs Senegal, ronda de 32)
+- Jérémy Doku: 1 gol (74' vs Senegal, ronda de 32)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Bélgica 2-1 Egipto
-- **Real:** Bélgica 1-1 Egipto
-- **Diagnóstico:** Simulamos victoria 2-1 pero fue 1-1; sobrestimamos a la Bélgica actual y subestimamos al Egipto con Salah como conductor.
+- Romelu Lukaku: 1 gol (52' vs Estados Unidos, octavos de final)
+- Jérémy Doku: 1 gol (73' vs Estados Unidos, octavos de final)
 
----
-> Fuente: WebSearch 2026-05-27 (beIN Sports, FIFA, FourFourTwo).
+- Jérémy Doku: 1 gol (54' vs España, cuartos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Amadou Onana (2026-07-10 vs España)
+- Amarillas: Youri Tielemans (2026-07-06 vs Estados Unidos)
+- Amarillas: Amadou Onana (2026-07-01 vs Senegal)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Nicolas Raskin (2026-06-15 vs Egipto); Arthur Theate (2026-06-15 vs Egipto); Timothy Castagne (2026-06-21 vs Irán); Maxim De Cuyper (2026-06-21 vs Irán); Timothy Castagne (2026-06-26 vs Nueva Zelanda); Maxim De Cuyper (2026-06-26 vs Nueva Zelanda)
+- Lesiones / molestias: —

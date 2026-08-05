@@ -1,28 +1,57 @@
-# 🇧🇷 Brasil 1-1 Marruecos 🇲🇦
-**Grupo C · Jornada 1 · 2026-06-13 · MetLife Stadium, East Rutherford · RESULTADO REAL**
+# Brasil 0-2 Marruecos
 
-## Síntesis
-Brasil y Marruecos igualaron 1-1 en el debut del Grupo C en el MetLife Stadium. Marruecos golpeó primero con Ismael Saibari a los 21', y Vinícius Júnior empató para Brasil a los 32'. El marcador no se movió en el resto del partido y ambos sumaron de a uno.
+## Metadata
+- Fecha: 2026-06-13
+- Hora: 18:00
+- Sede: MetLife Stadium, East Rutherford
+- Grupo: C
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 21' ⚽ Ismael Saibari (Marruecos)
-- 32' ⚽ Vinícius Júnior (Brasil)
-- 37' 🟨 Casemiro (Brasil)
-- 43' 🟨 Roger Ibañez (Brasil)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 21' Ismael Saibari (Marruecos)
-- 32' Vinícius Júnior (Brasil)
+## Probabilidades previas
+- Gana Brasil: 52%
+- Empate: 24%
+- Gana Marruecos: 24%
 
-## Formaciones (reales)
-- Brasil (DT Carlo Ancelotti): Alisson; Roger Ibañez, Marquinhos (C), Gabriel Magalhães, Douglas Santos; Lucas Paquetá, Casemiro, Bruno Guimarães; Vinícius Júnior, Igor Thiago, Raphinha
-- Marruecos (DT Mohamed Ouahbi): Yassine Bounou; Achraf Hakimi (C), Issa Diop, Chadi Riad, Noussair Mazraoui; Neil El Aynaoui, Ayyoub Bouaddi, Brahim Díaz, Azzedine Ounahi, Bilal El Khannouss; Ismael Saibari
+## XI inicial
+- Brasil: Alisson, Vanderson, Marquinhos, Magalhães; C. Henrique, Casemiro, Bruno G, Paquetá; Raphinha, Vinícius, Neymar
+- Marruecos: Bounou, Hakimi, Aguerd, Saïss; Mazraoui, Amrabat, El Khannouss, Ounahi; B. Díaz, En-Nesyri, Ziyech
 
-## Ficha
-- Sede: MetLife Stadium, East Rutherford, New Jersey · Asistencia: 80.663 · Árbitro: Slavko Vinčić (Eslovenia)
+## Relato minuto a minuto
+- 1' Arranca el partido en MetLife Stadium, East Rutherford.
+- 17' Gol de Marruecos: Ismael Saibari define y deja el partido 0-1.
+- 22' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 29' Gol de Marruecos: Achraf Hakimi define y deja el partido 0-2.
+- 51' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 85' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Brasil 2-1 Marruecos · Real: Brasil 1-1 Marruecos
-- El Prode acertó que Brasil marcaría y que Marruecos también, pero erró el ganador: fue empate, no triunfo brasileño.
+## Goles
+- Brasil: —
+- Marruecos: Ismael Saibari 17', Achraf Hakimi 29'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group C
+## Tarjetas
+- Brasil: Lucas Paquetá, Wesley
+- Marruecos: Sofiane Boufal, Achraf Hakimi
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Brasil: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Marruecos: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Brasil | 56% | 7 | 3 | 5 | 12 |
+| Marruecos | 44% | 13 | 5 | 7 | 13 |
+
+## MVP
+- Ismael Saibari
+
+## Resumen final
+Brasil y Marruecos abrieron su participación en el Grupo C con un 0-2. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

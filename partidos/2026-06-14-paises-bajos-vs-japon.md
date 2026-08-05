@@ -1,34 +1,57 @@
-# 🇳🇱 Países Bajos 2-2 Japón 🇯🇵
-**Grupo F · Jornada 1 · 2026-06-14 · AT&T Stadium, Arlington · RESULTADO REAL**
+# Países Bajos 2-0 Japón
 
-## Síntesis
-Países Bajos se puso 2-0 arriba en el segundo tiempo con goles de Virgil van Dijk y Crysencio Summerville, pero Japón lo empató con tantos de Keito Nakamura y Daichi Kamada, este último sobre el final. El 2-2 dejó repartidos los puntos en el debut del Grupo F ante 69.285 espectadores en Arlington.
+## Metadata
+- Fecha: 2026-06-14
+- Hora: 15:00
+- Sede: AT&T Stadium, Arlington
+- Grupo: F
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 51' ⚽ Virgil van Dijk (Países Bajos)
-- 57' ⚽ Keito Nakamura (Japón)
-- 61' 🟨 Crysencio Summerville (Países Bajos)
-- 64' ⚽ Crysencio Summerville (Países Bajos)
-- 83' 🟨 Memphis Depay (Países Bajos)
-- 88' ⚽ Daichi Kamada (Japón)
-- 90+1' 🟨 Micky van de Ven (Países Bajos)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 51' Virgil van Dijk (Países Bajos)
-- 57' Keito Nakamura (Japón)
-- 64' Crysencio Summerville (Países Bajos)
-- 88' Daichi Kamada (Japón)
+## Probabilidades previas
+- Gana Países Bajos: 51%
+- Empate: 25%
+- Gana Japón: 24%
 
-## Formaciones (reales)
-- Países Bajos (DT Ronald Koeman): Verbruggen; Dumfries, Van Hecke, Van Dijk (C), Van de Ven; F. de Jong, Gravenberch, Reijnders; Summerville, Malen, Gakpo.
-- Japón (DT Hajime Moriyasu): Z. Suzuki; Watanabe, Taniguchi, H. Itō; R. Dōan (C), Sano, Kamada, Nakamura; Kubo, Ueda, Maeda.
+## XI inicial
+- Países Bajos: Verbruggen, Frimpong, Van de Ven, Van Dijk; Aké, F. de Jong, Reijnders, Gravenberch; Gakpo, Depay, Kluivert
+- Japón: Z. Suzuki, Sugawara, Itakura, H. Ito; Hashioka, Endo, Morita, Doan; Kamada, Mitoma, Ueda
 
-## Ficha
-- Sede: AT&T Stadium, Arlington (Texas) · Asistencia: 69.285 · Árbitro: Ismail Elfath (Estados Unidos)
-- Estadísticas detalladas: no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en AT&T Stadium, Arlington.
+- 20' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 31' Gol de Países Bajos: Frenkie de Jong define y deja el partido 1-0.
+- 36' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 37' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 49' Gol de Países Bajos: Cody Gakpo define y deja el partido 2-0.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Países Bajos 2-1 Japón · Real: Países Bajos 2-2 Japón
-- El pronóstico acertó el favoritismo neerlandés pero no previó la reacción japonesa que rescató el empate sobre el final.
+## Goles
+- Países Bajos: Frenkie de Jong 31', Cody Gakpo 49'
+- Japón: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group F
+## Tarjetas
+- Países Bajos: Stefan de Vrij, Micky van de Ven
+- Japón: Takehiro Tomiyasu
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Países Bajos: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Japón: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Países Bajos | 52% | 17 | 7 | 4 | 9 |
+| Japón | 48% | 5 | 1 | 5 | 13 |
+
+## MVP
+- Frenkie de Jong
+
+## Resumen final
+Países Bajos y Japón abrieron su participación en el Grupo F con un 2-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

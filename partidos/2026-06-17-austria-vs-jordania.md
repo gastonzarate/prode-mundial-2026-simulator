@@ -1,30 +1,55 @@
-# 🇦🇹 Austria 3-1 Jordania 🇯🇴
-**Grupo J · Jornada 1 · 2026-06-17 · Levi's Stadium, Santa Clara · RESULTADO REAL**
+# Austria 0-0 Jordania
 
-## Síntesis
-Austria se impuso 3-1 a Jordania en el Levi's Stadium de Santa Clara. Romano Schmid abrió el marcador a los 20', Ali Olwan empató para Jordania a los 50', un autogol de Yazan Al-Arab a los 76' devolvió la ventaja a los austríacos y Marko Arnautović selló el 3-1 de penal en el tiempo añadido (90+12'). Das Team debutó con victoria en el Mundial.
+## Metadata
+- Fecha: 2026-06-17
+- Hora: 03:00
+- Sede: Levi's Stadium, Santa Clara
+- Grupo: J
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 20' ⚽ Romano Schmid (Austria)
-- 50' ⚽ Ali Olwan (Jordania)
-- 76' ⚽ Yazan Al-Arab (Jordania) autogol — cuenta para Austria
-- 90+12' ⚽ Marko Arnautović (Austria) penal
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 20' Romano Schmid (Austria)
-- 50' Ali Olwan (Jordania)
-- 76' autogol de Yazan Al-Arab (Jordania) — a favor de Austria
-- 90+12' Marko Arnautović (Austria, de penal)
+## Probabilidades previas
+- Gana Austria: 66%
+- Empate: 22%
+- Gana Jordania: 12%
 
-## Formaciones (reales)
-- Austria (DT Ralf Rangnick): A. Schlager; Posch, Lienhart, Alaba (cap.), Mwene; Seiwald, X. Schlager; Schmid, Laimer, Sabitzer; Kalajdžić.
-- Jordania (DT Jamal Sellami): Abulaila; Haddad (cap.), Nasib, Abualnadi, Y. Al-Arab; N. Al-Rawabdeh, Al-Rashdan, Abu Taha; Al-Taamari, Olwan, Al-Fakhouri.
+## XI inicial
+- Austria: Pentz, Posch, Danso, Alaba; Mwene, Seiwald, Laimer, Sabitzer; Baumgartner, Arnautović, Gregoritsch
+- Jordania: Abulaila, Al-Ajalin, Y. Al-Arab, B. Marei; Rateb, N. Al-Rawabdeh, M. Al-Mardi, Olwan; Al-Tamari, M. Al-Mawas, Y. Al-Naimat
 
-## Ficha
-- Sede: Levi's Stadium, Santa Clara, California · Asistencia: 68.527 · Árbitro: Dahane Beida (Mauritania)
+## Relato minuto a minuto
+- 1' Arranca el partido en Levi's Stadium, Santa Clara.
+- 23' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 36' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 54' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Austria 2-0 Jordania · Real: Austria 3-1 Jordania
-- El simulado acertó el ganador pero subestimó los goles: el partido real fue más abierto, con empate parcial de Jordania y definición austríaca recién en el cierre.
+## Goles
+- Austria: —
+- Jordania: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group J
+## Tarjetas
+- Austria: Florian Grillitsch
+- Jordania: Yazan Al-Arab, Ali Olwan
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Austria: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Jordania: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Austria | 60% | 10 | 3 | 3 | 13 |
+| Jordania | 40% | 5 | 2 | 3 | 12 |
+
+## MVP
+- Marcel Sabitzer
+
+## Resumen final
+Austria y Jordania abrieron su participación en el Grupo J con un 0-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 82
 - Físico: 76
-- Moral: 82
+- Moral: 76
 - Cohesión: 86
 - Experiencia: 86
 - Agallas: 73
@@ -62,39 +62,49 @@
 ## Lesionados / Suspendidos
 - Sin sanciones ni lesionados reportados.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs Bosnia y Herzegovina: 4-1 (V) — Grupo B J2 Mundial 2026
-- 2026-06-13 vs Catar: 1-1 (E) — Grupo B J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs España: 0-2 (D)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Kosovo: 2-0 (V)
+- 2025-11-XX vs Suecia: 1-2 (D)
+- 2025-10-XX vs Eslovenia: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 78/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 5  | 2  | +3 | 4   |
+| 3 | 2 | 1 | 0 | 4 | 2 | +2 | 7 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Cuartos de final | Argentina | 0-2 | Eliminado en cuartos |
+| Octavos de final | Colombia | 1-2 | Eliminado |
+| Ronda de 32 | Argelia | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Breel Embolo: 1 gol (vs Catar, 17' de penal, J1)
-- Johan Manzambi: 2 goles (vs Bosnia, 74' y 90', J2)
-- Rubén Vargas: 1 gol (vs Bosnia, 84', J2)
-- Granit Xhaka: 1 gol (vs Bosnia, 90+7' de penal, J2)
+- Breel Embolo: 1 gol (5' vs Catar)
 
-## Historial vs rivales del grupo
-- vs Canadá: 1 amistoso reciente con victoria suiza 3-0.
-- vs Catar: 1-1 (E) — J1 Mundial 2026, 2026-06-13.
-- vs Bosnia y Herzegovina: rivalidad UEFA, balance equilibrado (4V 3E 3D suizo).
+- Breel Embolo: 1 gol (74' vs Bosnia y Herzegovina)
+- Noah Okafor: 1 gol (82' vs Bosnia y Herzegovina)
 
-## Estado de ánimo
-Tras el flojo empate 1-1 vs Catar, la goleada 4-1 a Bosnia devolvió la confianza. Manzambi apareció con un doblete y la Nati lidera el grupo junto a Canadá, encarrilada hacia los octavos.
+- Breel Embolo: 1 gol (74' vs Canadá)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Suiza 2-0 Catar
-- **Real:** Suiza 1-1 Catar
-- **Diagnóstico:** Error de resultado: simulamos victoria 2-0 pero fue 1-1; Catar demostró tener más nivel del asignado en nuestras estadísticas.
+- Breel Embolo: 1 gol (21' vs Argelia, ronda de 32)
+- Dan Ndoye: 1 gol (71' vs Argelia, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (ESPN, beIN Sports).
+- Breel Embolo: 1 gol (41' vs Colombia, octavos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Granit Xhaka (2026-07-11 vs Argentina)
+- Amarillas: Manuel Akanji (2026-07-07 vs Colombia)
+- Amarillas: Granit Xhaka (2026-07-02 vs Argelia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Manuel Akanji (2026-06-13 vs Catar); Djibril Sow (2026-06-13 vs Catar); Remo Freuler (2026-06-13 vs Catar); Manuel Akanji (2026-06-18 vs Bosnia y Herzegovina); Silvan Widmer (2026-06-18 vs Bosnia y Herzegovina); Manuel Akanji (2026-06-24 vs Canadá); Silvan Widmer (2026-06-24 vs Canadá)
+- Lesiones / molestias: —

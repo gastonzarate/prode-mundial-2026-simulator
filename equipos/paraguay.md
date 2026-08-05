@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 78
-- Moral: 66
+- Moral: 71
 - Cohesión: 80
 - Experiencia: 66
 - Agallas: 72
@@ -60,39 +60,43 @@
 4-4-2: R. Fernández; Cáceres, G. Gómez, Alderete, J. Alonso; Almirón, A. Cubas, D. Gómez, R. Sosa; J. Enciso, Sanabria.
 
 ## Lesionados / Suspendidos
-- Miguel Almirón: suspendido para J3 (roja vs Turquía, 45+3').
+- Miguel Almirón: suspendido para la ronda de 32.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-19 vs Turquía: 1-0 (V) — Grupo D J2 Mundial 2026
-- 2026-06-12 vs Estados Unidos: 1-4 (D) — Grupo D J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Brasil: 0-1 (D)
 - 2026-03-XX vs Uruguay: 1-0 (V)
 - 2025-11-XX vs Bolivia: 2-1 (V)
+- 2025-10-XX vs Argentina: 1-2 (D)
+- 2025-09-XX vs Venezuela: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 70/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 2  | 4  | −2 | 3   |
+| 3 | 0 | 2 | 1 | 3 | 4 | −1 | 2 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Francia | 0-2 | Eliminado |
+| Ronda de 32 | Alemania | 0-3 | Eliminado |
 
 ### Goleadores propios
-- Maurício: 1 gol (vs Estados Unidos, 73', J1)
-- Matías Galarza: 1 gol (vs Turquía, 2', J2)
+- Antonio Sanabria: 1 gol (43' vs Estados Unidos)
 
-## Historial vs rivales del grupo
-- vs EE.UU.: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12).
-- vs Australia: sin antecedentes registrados.
-- vs Turquía: sin antecedentes registrados.
+- Antonio Sanabria: 1 gol (14' vs Turquía)
 
-## Estado de ánimo
-Reacción tras la goleada 1-4 vs EE.UU.: triunfo 1-0 vs Turquía con gol madrugador de Galarza y aguante a 10 desde la roja de Almirón. Con 3 puntos, la Albirroja sigue con chances de octavos.
+- Antonio Sanabria: 1 gol (14' vs Australia)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** 1-1 vs Estados Unidos
-- **Real:** 1-4 vs Estados Unidos
-- **Diagnóstico:** Error grave: simulamos 1-1 pero perdieron 1-4; el simulador igualó un partido en el que EE.UU. dominó de principio a fin.
+### Disciplina en eliminatorias
+- Amarillas: Miguel Almirón (2026-07-04 vs Francia)
+- Amarillas: Andrés Cubas, Gustavo Gómez (2026-06-29 vs Alemania)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
----
-> Fuente: WebSearch 2026-05-27 (La Nación PY, ABC Color, Infobae).
+### Disciplina y disponibilidad
+- Amarillas: Alan Benítez (2026-06-12 vs Estados Unidos); Omar Alderete (2026-06-12 vs Estados Unidos); Alan Benítez (2026-06-20 vs Turquía); Junior Alonso (2026-06-20 vs Turquía); Alan Benítez (2026-06-25 vs Australia); Junior Alonso (2026-06-25 vs Australia)
+- Lesiones / molestias: —

@@ -21,7 +21,7 @@
 - Defensa: 62
 - Arco: 64
 - Físico: 70
-- Moral: 59
+- Moral: 76
 - Cohesión: 72
 - Experiencia: 50
 - Agallas: 58
@@ -60,38 +60,26 @@
 4-3-3: Room; Brenet, Obispo, Bazoer, Sambo; Bacuna, Kuwas, J. Bacuna; Chong, L. García, Hansen.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-20 vs Ecuador: 0-0 (E) — Grupo E J2 Mundial 2026
-- 2026-06-14 vs Alemania: 1-7 (D) — Grupo E J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Jamaica: 1-0 (V) — repechaje intercontinental
 - 2026-03-XX vs Haití: 0-1 (D)
 - 2025-11-XX vs Trinidad: 2-1 (V)
+- 2025-10-XX vs El Salvador: 1-1 (E)
+- 2025-09-XX vs Granada: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 43/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 1  | 7  | -6 | 1   |
+| 3 | 0 | 0 | 3 | 0 | 8 | −8 | 0 |
 
 ### Goleadores propios
-- Livano Comenencia: 1 gol (vs Alemania, 21', J1)
+- —
 
-## Historial vs rivales del grupo
-- vs Alemania: **J1 2026-06-14 — 1-7 (D)** [ver](../partidos/2026-06-14-alemania-vs-curazao.md)
-- vs Costa de Marfil: sin antecedentes registrados.
-- vs Ecuador: sin antecedentes registrados.
-
-## Estado de ánimo
-Tras la goleada 1-7 ante Alemania, Curazao sumó un empate 0-0 histórico vs Ecuador que le da su primer punto mundialista y lo mantiene con vida en el grupo. El honor de haber marcado en su debut sigue siendo motivo de orgullo nacional.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Curazao 0-3 Alemania
-- **Real:** Curazao 1-7 Alemania
-- **Diagnóstico:** Acertamos la derrota pero la goleada fue mucho mayor (1-7 vs 0-3); Curazao tiene menos resistencia defensiva de lo modelado y Alemania más contundencia.
-
----
-> Fuente: WebSearch 2026-05-27 (FIFA, beIN Sports, Daily Beirut).
+### Disciplina y disponibilidad
+- Amarillas: Riechedly Bazoer (2026-06-14 vs Alemania); Sontje Hansen (2026-06-14 vs Alemania); Joshua Brenet (2026-06-20 vs Ecuador); Riechedly Bazoer (2026-06-20 vs Ecuador); Joshua Brenet (2026-06-25 vs Costa de Marfil); Riechedly Bazoer (2026-06-25 vs Costa de Marfil)
+- Lesiones / molestias: —

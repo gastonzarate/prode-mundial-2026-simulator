@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 84
-- Moral: 76
+- Moral: 82
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 78
@@ -60,39 +60,43 @@
 4-3-3: Y. Fofana; Singo, Ndicka, Kossounou, Konan; Kessié, S. Fofana, H. Traoré; A. Diallo, Adingra, Y. Diomande.
 
 ## Lesionados / Suspendidos
-- (ninguno)
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-20 vs Alemania: 1-2 (D) — Grupo E J2 Mundial 2026
-- 2026-06-14 vs Ecuador: 1-0 (V) — Grupo E J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Burkina Faso: 1-1 (E)
 - 2026-03-XX vs Burundi: 2-0 (V)
 - 2025-11-XX vs Gambia: 3-0 (V)
+- 2025-10-XX vs Marruecos: 0-1 (D)
+- 2025-09-XX vs Madagascar: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 53/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
+| 3 | 2 | 0 | 1 | 5 | 3 | +2 | 6 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Noruega | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Amad Diallo: 1 gol (vs Ecuador, 90', J1)
-- Franck Kessié: 1 gol (vs Alemania, 30', J2)
+- Franck Kessié: 1 gol (29' vs Ecuador)
+- Yoan-Ange Bonny: 1 gol (5' vs Ecuador)
 
-## Historial vs rivales del grupo
-- vs Alemania: 0-0 (Mundial 2006), balance 0V-1E-1D.
-- vs Curazao: sin antecedentes registrados.
-- vs Ecuador: sin antecedentes registrados.
+- Amad Diallo: 1 gol (88' vs Alemania)
 
-## Estado de ánimo
-Arranque mixto: victoria 1-0 vs Ecuador (sorpresa del grupo, con gol agónico de Amad Diallo) y derrota 1-2 vs Alemania pese a haberse adelantado con Kessié. Los Elefantes siguen dependiendo de sí mismos para clasificar.
+- Amad Diallo: 1 gol (88' vs Curazao)
+- Sébastien Haller: 1 gol (14' vs Curazao)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Costa de Marfil 0-1 Ecuador
-- **Real:** Costa de Marfil 1-0 Ecuador
-- **Diagnóstico:** Error de resultado: simulamos derrota 0-1 pero ganaron 1-0; Ecuador fue sobrevalorado en nuestros stats frente a la calidad individual africana.
+- Amad Diallo: 1 gol (36' vs Noruega, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (FIFA, FourFourTwo, Olympics.com).
+### Disciplina en eliminatorias
+- Amarillas: Franck Kessié (2026-06-30 vs Noruega)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Evan Ndicka (2026-06-14 vs Ecuador); Seko Fofana (2026-06-14 vs Ecuador); Ibrahim Sangaré (2026-06-14 vs Ecuador); Serge Aurier (2026-06-20 vs Alemania); Ghislain Konan (2026-06-20 vs Alemania); Serge Aurier (2026-06-25 vs Curazao); Ghislain Konan (2026-06-25 vs Curazao)
+- Lesiones / molestias: —

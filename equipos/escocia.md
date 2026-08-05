@@ -62,36 +62,24 @@
 ## Lesionados / Suspendidos
 - (ninguno)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-19 vs Marruecos: 0-1 (P) — Grupo C J2 Mundial 2026
-- 2026-06-13 vs Haití: 1-0 (V) — Grupo C J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Polonia: 1-1 (E)
 - 2026-03-XX vs Suiza: 0-0 (E)
 - 2025-11-XX vs Bielorrusia: 3-0 (V)
+- 2025-10-XX vs Grecia: 2-1 (V)
+- 2025-09-XX vs Croacia: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 28/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 1  | 1  | 0  | 3   |
+| 3 | 1 | 0 | 2 | 2 | 3 | −1 | 3 |
 
 ### Goleadores propios
-- John McGinn: 1 gol (vs Haití, 28', J1)
+- Che Adams: 1 gol (88' vs Brasil)
 
-## Historial vs rivales del grupo
-- vs Brasil: histórico 0-2 (Francia 1998 fase grupos), 1-1 amistoso 2014.
-- vs Marruecos: 0-3 derrota escocesa, Francia 1998 fase grupos.
-- vs Haití: 1-0 (V) — Mundial 2026 J1.
-
-## Estado de ánimo
-Tras la victoria 1-0 vs Haití con gol de McGinn, llegó el golpe: derrota 0-1 ante Marruecos por un tanto a los 2'. La Tartan Army se queda con 3 puntos y se juega la clasificación en J3.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Escocia 2-0 Haití
-- **Real:** Escocia 1-0 Haití
-- **Diagnóstico:** Acertamos la victoria pero el marcador fue 1-0, no 2-0; Escocia fue más eficiente y Haití más compacto de lo esperado.
-
----
-> Fuente: WebSearch 2026-05-27 (ESPN, Scottish FA).
+### Disciplina y disponibilidad
+- Amarillas: Anthony Ralston (2026-06-19 vs Marruecos); Andy Robertson (2026-06-19 vs Marruecos); Anthony Ralston (2026-06-24 vs Brasil); Andy Robertson (2026-06-24 vs Brasil)
+- Lesiones / molestias: —

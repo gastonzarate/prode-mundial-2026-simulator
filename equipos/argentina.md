@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 88
 - Físico: 82
-- Moral: 99
+- Moral: 100
 - Cohesión: 95
 - Experiencia: 92
 - Agallas: 96
@@ -60,38 +60,68 @@
 4-3-3: E. Martínez; Molina, Romero, Otamendi, Tagliafico; De Paul, E. Fernández, Mac Allister; Messi, J. Álvarez, Di María (alt: T. Almada).
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Austria: 2-0 (V) — Grupo J J2 Mundial 2026
-- 2026-06-16 vs Argelia: 3-0 (V) — Grupo J J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Brasil: 1-0 (V)
 - 2026-03-XX vs Uruguay: 0-0 (E)
 - 2025-11-XX vs Paraguay: 2-1 (V)
+- 2025-10-XX vs Ecuador: 1-0 (V)
+- 2025-09-XX vs Chile: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 96/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 5  | 0  | +5 | 6   |
+| 3 | 3 | 0 | 0 | 9 | 2 | +7 | 9 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Final | España | 1-1 (4-3 pen.) | Campeón del mundo |
+| Semifinales | Inglaterra | 2-1 | Clasificado a la final |
+| Cuartos de final | Suiza | 2-0 | Clasificado a semifinales |
+| Octavos de final | Egipto | 3-1 | Clasificado a cuartos |
+| Ronda de 32 | Cabo Verde | 3-0 | Clasificado a octavos |
 
 ### Goleadores propios
-- Lionel Messi: 5 goles (vs Argelia 17', 60', 76' hat-trick J1; vs Austria 38', 90+5' J2)
+- Cristian "Cuti" Romero: 1 gol (32' vs Argelia)
+- Lionel Messi: 1 gol (30' vs Argelia)
+- Rodrigo De Paul: 1 gol (88' vs Argelia)
+- Thiago Almada: 1 gol (85' vs Argelia)
 
-## Historial vs rivales del grupo
-- vs Argelia: 4V-0E-1D balance argentino (incluye amistoso 4-3 victoria argelina 2002).
-- vs Austria: 6V-1E-2D balance ampliamente favorable a Argentina.
-- vs Jordania: sin antecedentes registrados.
+- Lionel Messi: 1 gol (27' vs Austria)
+- Julián Álvarez: 1 gol (39' vs Austria)
 
-## Estado de ánimo
-Arranque perfecto: 3-0 vs Argelia y 2-0 vs Austria, líder del Grupo J con 6 puntos y el arco en cero. Messi marcó los 5 goles (hat-trick en J1 y doblete en J2) y superó a Klose como máximo goleador histórico de los Mundiales; la Albiceleste es pura jerarquía.
+- Lionel Messi: 1 gol (27' vs Jordania)
+- Julián Álvarez: 1 gol (39' vs Jordania)
+- Lautaro Martínez: 1 gol (51' vs Jordania)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Argentina 3-1 Argelia
-- **Real:** Argentina 3-0 Argelia
-- **Diagnóstico:** Acertamos la victoria 3-0 y hasta los 3 goles argentinos — el error fue que le dimos 1 gol a Argelia cuando en realidad no marcaron nada.
+- Lionel Messi: 1 gol (15' vs Cabo Verde, ronda de 32)
+- Julián Álvarez: 1 gol (53' vs Cabo Verde, ronda de 32)
+- Lautaro Martínez: 1 gol (85' vs Cabo Verde, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (Infobae, El Destape, La Nación).
+- Lionel Messi: 1 gol (16' vs Egipto, octavos de final)
+- Julián Álvarez: 1 gol (47' vs Egipto, octavos de final)
+- Lautaro Martínez: 1 gol (88' vs Egipto, octavos de final)
+
+- Lionel Messi: 1 gol (24' vs Suiza, cuartos de final)
+- Julián Álvarez: 1 gol (69' vs Suiza, cuartos de final)
+
+- Lionel Messi: 1 gol (27' vs Inglaterra, semifinales)
+- Lautaro Martínez: 1 gol (86' vs Inglaterra, semifinales)
+
+### Disciplina en eliminatorias
+- Amarillas: Cristian Romero (2026-07-15 vs Inglaterra)
+- Amarillas: Cristian Romero (2026-07-11 vs Suiza)
+- Amarillas: Cristian Romero (2026-07-07 vs Egipto)
+- Amarillas: Rodrigo De Paul (2026-07-03 vs Cabo Verde)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Giuliano Simeone (2026-06-16 vs Argelia); Rodrigo De Paul (2026-06-16 vs Argelia); Nicolás Otamendi (2026-06-16 vs Argelia); Nahuel Molina (2026-06-22 vs Austria); Nicolás Tagliafico (2026-06-22 vs Austria); Nahuel Molina (2026-06-27 vs Jordania); Nicolás Tagliafico (2026-06-27 vs Jordania)
+- Lesiones / molestias: —

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prode Mundial 2026 | Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <main class="container">
+      <header class="hero">
+        <p class="kicker">PRODE MUNDIAL 2026</p>
+        <h1>Panel de resultados</h1>
+        <p id="sync-info" class="subtle">Cargando datos...</p>
+      </header>
+
+      <section class="summary-grid" id="summary"></section>
+
+      <section class="panel">
+        <div class="panel-title-row">
+          <h2>Próximos partidos</h2>
+        </div>
+        <div id="next-matches" class="next-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title-row">
+          <h2>Cuadro eliminatorio</h2>
+        </div>
+        <p class="subtle">Cada ronda usa los clasificados reales publicados por FIFA; los resultados mostrados son las simulaciones del prode.</p>
+        <div id="knockout-grid" class="knockout-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title-row">
+          <h2>Fixture completo</h2>
+          <div class="filters">
+            <label>
+              Estado
+              <select id="status-filter">
+                <option value="all">Todos</option>
+                <option value="played">Jugados</option>
+                <option value="pending">Pendientes</option>
+              </select>
+            </label>
+            <label>
+              Fase / grupo
+              <select id="group-filter">
+                <option value="all">Todos</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Fecha</th>
+                <th>Hora</th>
+                <th>Fase</th>
+                <th>Partido</th>
+                <th>Estado</th>
+                <th>Resultado</th>
+              </tr>
+            </thead>
+            <tbody id="fixture-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title-row">
+          <h2>Tablas por grupo</h2>
+        </div>
+        <div id="groups-grid" class="groups-grid"></div>
+      </section>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

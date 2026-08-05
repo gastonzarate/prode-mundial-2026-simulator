@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 78
 - Físico: 80
-- Moral: 91
+- Moral: 84
 - Cohesión: 82
 - Experiencia: 70
 - Agallas: 78
@@ -60,40 +60,49 @@
 4-3-3: Turner; Dest, Richards, Carter-Vickers, A. Robinson; Adams, McKennie, Musah; Weah, Pepi, Pulisic.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- Folarin Balogun: suspendido para octavos por la expulsión sufrida en la ronda de 32 real.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-19 vs Australia: 2-0 (V) — Grupo D J2 Mundial 2026
-- 2026-06-12 vs Paraguay: 4-1 (V) — Grupo D J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Canadá: 1-1 (E)
 - 2026-03-XX vs Jamaica: 2-1 (V)
 - 2025-11-XX vs Colombia: 0-2 (D)
+- 2025-10-XX vs México: 2-2 (E)
+- 2025-09-XX vs Panamá: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 68/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 6  | 1  | +5 | 6   |
+| 3 | 2 | 1 | 0 | 6 | 4 | +2 | 7 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Bélgica | 1-2 | Eliminado |
+| Ronda de 32 | Bosnia y Herzegovina | 2-0 | Clasificado a octavos |
 
 ### Goleadores propios
-- Folarin Balogun: 2 goles (vs Paraguay, 31' y 45+5', J1)
-- Gio Reyna: 1 gol (vs Paraguay, 90+8', J1)
-- Freeman: 1 gol (vs Australia, 43', J2)
+- Christian Pulisic: 1 gol (7' vs Paraguay)
+- Tyler Adams: 1 gol (17' vs Paraguay)
 
-## Historial vs rivales del grupo
-- vs Paraguay: 1 partido en Mundial 2026 — 1-1 (J1, 2026-06-12). Pre-Mundial: balance equilibrado.
-- vs Australia: 2 amistosos recientes, balance favorable USA 1V-1E.
-- vs Turquía: 2-1 derrota USA amistoso 2022.
+- Christian Pulisic: 1 gol (82' vs Australia)
+- Ricardo Pepi: 1 gol (88' vs Australia)
 
-## Estado de ánimo
-Arranque perfecto: goleada 4-1 vs Paraguay y 2-0 vs Australia, ambas en casa. Líder del Grupo D con 6 puntos, 6 goles a favor y apenas 1 en contra. El efecto anfitrión y la jerarquía de Pulisic se sienten partido a partido.
+- Christian Pulisic: 1 gol (82' vs Turquía)
+- Ricardo Pepi: 1 gol (88' vs Turquía)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** 1-1 vs Paraguay
-- **Real:** 4-1 vs Paraguay
-- **Diagnóstico:** Error grave: simulamos 1-1 pero fue 4-1; subestimamos el efecto anfitrión de EE.UU. y la calidad de Pulisic en casa.
+- Christian Pulisic: 1 gol (34' vs Bosnia y Herzegovina, ronda de 32)
+- Folarin Balogun: 1 gol (79' vs Bosnia y Herzegovina, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (ESPN, CBS, NPR).
+- Christian Pulisic: 1 gol (18' vs Bélgica, octavos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Weston McKennie (2026-07-06 vs Bélgica)
+- Amarillas: Tyler Adams (2026-07-01 vs Bosnia y Herzegovina)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Yunus Musah (2026-06-12 vs Paraguay); Joe Scally (2026-06-12 vs Paraguay); Sergiño Dest (2026-06-19 vs Australia); Chris Richards (2026-06-19 vs Australia); Sergiño Dest (2026-06-25 vs Turquía); Chris Richards (2026-06-25 vs Turquía)
+- Lesiones / molestias: —

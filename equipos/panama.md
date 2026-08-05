@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 74
 - Físico: 78
-- Moral: 68
+- Moral: 80
 - Cohesión: 80
 - Experiencia: 55
 - Agallas: 68
@@ -73,25 +73,17 @@ Golpe duro: dos derrotas por la mínima (0-1 vs Ghana sobre la hora y 0-1 vs Cro
 - 2025-11-XX vs Costa Rica: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 42/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 0  | 2  | -2 | 0   |
+| 3 | 1 | 0 | 2 | 2 | 6 | −4 | 3 |
 
 ### Goleadores propios
-- Sin goles propios en el Mundial.
+- Cecilio Waterman: 1 gol (70' vs Ghana)
+- José Fajardo: 1 gol (31' vs Ghana)
 
-## Historial vs rivales del grupo
-- vs Inglaterra: 1-6 derrota panameña Mundial 2018 fase grupos.
-- vs Croacia: sin antecedentes previos. Mundial 2026 J2: 0-1 derrota panameña.
-- vs Ghana: 0-1 derrota panameña (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Ghana 1-1 Panamá
-- **Real:** Ghana 1-0 Panamá
-- **Diagnóstico:** El modelo dio empate, pero Panamá no logró marcar y cayó con un gol de Ghana en el 90+5'. Sobreestimamos la capacidad ofensiva panameña: no convirtió en todo el Mundial.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (FEPAFUT).
+### Disciplina y disponibilidad
+- Amarillas: Edgar Bárcenas (2026-06-17 vs Ghana); Fidel Escobar (2026-06-17 vs Ghana); César Blackman (2026-06-17 vs Ghana); César Blackman (2026-06-23 vs Croacia); Andrés Andrade (2026-06-23 vs Croacia); César Blackman (2026-06-27 vs Inglaterra); Andrés Andrade (2026-06-27 vs Inglaterra)
+- Lesiones / molestias: —

@@ -1,38 +1,59 @@
-# 🇩🇪 Alemania 7-1 Curazao 🇨🇼
-**Grupo E · Jornada 1 · 2026-06-14 · NRG Stadium, Houston · RESULTADO REAL**
+# Alemania 4-0 Curazao
 
-## Síntesis
-Alemania goleó 7-1 a Curazao en el debut del Grupo E en Houston. Curazao llegó a empatar momentáneamente 1-1 con el gol de Comenencia a los 21', pero la Mannschaft se desató con un doblete de Havertz y goles repartidos entre Nmecha, Schlotterbeck, Musiala, Brown y Undav. Debut mundialista amargo para Curazao.
+## Metadata
+- Fecha: 2026-06-14
+- Hora: 12:00
+- Sede: NRG Stadium, Houston
+- Grupo: E
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 6' ⚽ Nmecha (Alemania)
-- 21' ⚽ Comenencia (Curazao)
-- 38' ⚽ Schlotterbeck (Alemania)
-- 45+5' ⚽ Havertz (Alemania) (penal)
-- 47' ⚽ Musiala (Alemania)
-- 68' ⚽ Brown (Alemania)
-- 78' ⚽ Undav (Alemania)
-- 88' ⚽ Havertz (Alemania)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 6' Nmecha (Alemania)
-- 21' Comenencia (Curazao)
-- 38' Schlotterbeck (Alemania)
-- 45+5' Havertz (Alemania) (penal)
-- 47' Musiala (Alemania)
-- 68' Brown (Alemania)
-- 78' Undav (Alemania)
-- 88' Havertz (Alemania)
+## Probabilidades previas
+- Gana Alemania: 72%
+- Empate: 16%
+- Gana Curazao: 12%
 
-## Formaciones (reales)
-- Alemania (DT Julian Nagelsmann): Neuer; Kimmich (c), Tah, Schlotterbeck, Nmecha, Pavlović, Brown, Sané, Musiala, Havertz, Wirtz.
-- Curazao (DT Dick Advocaat): Room; Floranus, Bazoer, Obispo, Fonville, Bacuna (c), Comenencia, Chong, Hansen, Locadia, Juninho Bacuna.
+## XI inicial
+- Alemania: Neuer, Kimmich, Tah, Schlotterbeck; Mittelstädt, Pavlović, Goretzka, Wirtz; Musiala, Sané, Undav
+- Curazao: Room, Brenet, Obispo, Bazoer; Sambo, Bacuna, Kuwas, J. Bacuna; Chong, L. García, Hansen
 
-## Ficha
-- Sede: NRG Stadium, Houston · Asistencia: 68.021 · Árbitro: Jalal Jayed (Marruecos)
+## Relato minuto a minuto
+- 1' Arranca el partido en NRG Stadium, Houston.
+- 37' Gol de Alemania: Tim Kleindienst define y deja el partido 1-0.
+- 56' Gol de Alemania: Niclas Füllkrug define y deja el partido 2-0.
+- 57' Gol de Alemania: Jonathan Tah define y deja el partido 3-0.
+- 60' Gol de Alemania: Leroy Sané define y deja el partido 4-0.
+- 74' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 78' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 84' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Alemania 3-0 Curazao · Real: Alemania 7-1 Curazao
-- Se acertó el ganador y que Alemania marcaría con holgura, pero la goleada real fue mucho más amplia y Curazao alcanzó a descontar.
+## Goles
+- Alemania: Tim Kleindienst 37', Niclas Füllkrug 56', Jonathan Tah 57', Leroy Sané 60'
+- Curazao: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group E
+## Tarjetas
+- Alemania: Aleksandar Pavlović, Florian Wirtz
+- Curazao: Riechedly Bazoer, Sontje Hansen
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Alemania: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Curazao: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Alemania | 65% | 25 | 6 | 4 | 10 |
+| Curazao | 35% | 4 | 1 | 3 | 17 |
+
+## MVP
+- Tim Kleindienst
+
+## Resumen final
+Alemania y Curazao abrieron su participación en el Grupo E con un 4-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

@@ -1,26 +1,58 @@
-# 🇬🇭 Ghana 1-0 Panamá 🇵🇦
-**Grupo L · Jornada 1 · 2026-06-17 · BMO Field, Toronto · RESULTADO REAL**
+# Ghana 1-2 Panamá
 
-## Síntesis
-Ghana venció 1-0 a Panamá en el BMO Field de Toronto con un gol agónico de Caleb Yirenkyi en el quinto minuto de descuento. Fue un partido cerrado que los Black Stars resolvieron sobre el final.
+## Metadata
+- Fecha: 2026-06-17
+- Hora: 19:00
+- Sede: BMO Field, Toronto
+- Grupo: L
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 16' 🟨 Caleb Yirenkyi (Ghana)
-- 90+5' ⚽ Caleb Yirenkyi (Ghana)
-- 90+9' 🟨 Édgar Bárcenas (Panamá)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 90+5' Caleb Yirenkyi (Ghana)
+## Probabilidades previas
+- Gana Ghana: 49%
+- Empate: 25%
+- Gana Panamá: 26%
 
-## Formaciones (reales)
-- Ghana (DT Carlos Queiroz): Ati-Zigi; Senaya, Adjetey, Opoku, Mensah; Owusu, Yirenkyi, Sulemana; Nuamah, Ayew, Semenyo.
-- Panamá (DT Thomas Christiansen): Mosquera; Murillo, Ramos, Córdoba, Andrade; Harvey, Bárcenas; Martínez, Waterman, Rodríguez, Blackman.
+## XI inicial
+- Ghana: Wollacott, Lamptey, Salisu, Djiku; Mensah, Partey, S. Samed, Kudus; Semenyo, J. Ayew, K. Sulemana
+- Panamá: Mosquera, Blackman, F. Escobar, M. Murillo; E. Davis, Carrasquilla, Godoy, C. Harvey; J. L. Rodríguez, I. Díaz, Bárcenas
 
-## Ficha
-- Sede: BMO Field, Toronto · Asistencia: 42.942 · Árbitro: Glenn Nyberg (Suecia)
+## Relato minuto a minuto
+- 1' Arranca el partido en BMO Field, Toronto.
+- 18' Gol de Ghana: Kamaldeen Sulemana define y deja el partido 1-0.
+- 29' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 31' Gol de Panamá: José Fajardo define y deja el partido 1-1.
+- 58' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 69' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 70' Gol de Panamá: Cecilio Waterman define y deja el partido 1-2.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Ghana 1-1 Panamá · Real: Ghana 1-0 Panamá
-- La simulación acertó la superioridad de Ghana, pero el gol llegó en tiempo de descuento y Panamá no logró el empate previsto.
+## Goles
+- Ghana: Kamaldeen Sulemana 18'
+- Panamá: José Fajardo 31', Cecilio Waterman 70'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group L
+## Tarjetas
+- Ghana: Daniel Amartey, Mohammed Kudus
+- Panamá: Edgar Bárcenas, Fidel Escobar, César Blackman
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Ghana: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Panamá: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Ghana | 50% | 15 | 3 | 5 | 11 |
+| Panamá | 50% | 17 | 7 | 6 | 11 |
+
+## MVP
+- José Fajardo
+
+## Resumen final
+Ghana y Panamá abrieron su participación en el Grupo L con un 1-2. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

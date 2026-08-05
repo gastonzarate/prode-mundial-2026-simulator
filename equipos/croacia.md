@@ -60,40 +60,41 @@
 4-3-3: Livaković; Juranović, Gvardiol, Šutalo, Sosa; Modrić, Kovačić, M. Pašalić; Vlašić, Kramarić, Perišić.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Reacción tras el golpe inicial: cayó 2-4 ante Inglaterra en una J1 dura, pero se recompuso con un 1-0 sólido a Panamá (gol de Budimir) para sumar 3 puntos. La clasificación sigue en sus manos pensando en la última fecha del grupo.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs Panamá: 1-0 (V) — Grupo L J2 Mundial 2026
-- 2026-06-17 vs Inglaterra: 2-4 (P) — Grupo L J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Portugal: 1-2 (D)
 - 2026-03-XX vs Francia: 0-2 (D)
 - 2025-11-XX vs Gibraltar: 7-0 (V)
+- 2025-10-XX vs República Checa: 3-1 (V)
+- 2025-09-XX vs Escocia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 54/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 3  | 4  | -1 | 3   |
+| 3 | 2 | 0 | 1 | 4 | 3 | +1 | 6 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Portugal | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Martin Baturina: 1 gol (vs Inglaterra, 36', J1)
-- Petar Musa: 1 gol (vs Inglaterra, 45+5', J1)
-- Ante Budimir: 1 gol (vs Panamá, 54', J2)
+- Ivan Perišić: 1 gol (88' vs Panamá)
+- Andrej Kramarić: 1 gol (14' vs Panamá)
 
-## Historial vs rivales del grupo
-- vs Inglaterra: 2-1 victoria croata semifinal Mundial 2018. Mundial 2026 J1: 2-4 derrota croata.
-- vs Ghana: amistoso 2014: 1-1.
-- vs Panamá: sin antecedentes previos. Mundial 2026 J2: 1-0 victoria croata.
+- Ivan Perišić: 1 gol (88' vs Ghana)
+- Andrej Kramarić: 1 gol (14' vs Ghana)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Inglaterra 1-1 Croacia
-- **Real:** Inglaterra 4-2 Croacia
-- **Diagnóstico:** Sobreestimamos la solidez defensiva croata; el modelo dio empate y la realidad fue una derrota por dos goles. Baturina y Musa marcaron, pero la defensa no contuvo el ataque inglés.
+- Andrej Kramarić: 1 gol (56' vs Portugal, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (FourFourTwo, beIN Sports, TSN).
+### Disciplina en eliminatorias
+- Amarillas: Joško Gvardiol (2026-07-02 vs Portugal)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Mateo Kovačić (2026-06-17 vs Inglaterra); Joško Gvardiol (2026-06-23 vs Panamá); Duje Ćaleta-Car (2026-06-23 vs Panamá); Joško Gvardiol (2026-06-27 vs Ghana); Duje Ćaleta-Car (2026-06-27 vs Ghana)
+- Lesiones / molestias: —

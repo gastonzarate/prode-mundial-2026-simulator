@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 76
 - Físico: 76
-- Moral: 85
+- Moral: 78
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 78
@@ -60,41 +60,44 @@
 4-3-3: El Shenawy; M. Hany, Hegazy, Hamdy, Maâloul; H. Fathi, Ashour, Afsha; Salah, Mostafa Mohamed, Trezeguet.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos, incluyendo Mundial)
-- 2026-06-21 vs Nueva Zelanda: 3-1 (V) — Grupo G J2 Mundial 2026
-- 2026-06-15 vs Bélgica: 1-1 (E) — Grupo G J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Burkina Faso: 1-0 (V)
 - 2026-03-XX vs Sierra Leona: 2-1 (V)
 - 2025-11-XX vs Guinea-Bisáu: 3-1 (V)
+- 2025-10-XX vs Etiopía: 2-0 (V)
+- 2025-09-XX vs Botsuana: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 68/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 4  | 2  | +2 | 4   |
+| 3 | 0 | 3 | 0 | 2 | 2 | 0 | 3 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Argentina | 1-3 | Eliminado |
+| Ronda de 32 | Australia | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Mohamed Salah: 1 gol (vs Nueva Zelanda, 67', J2)
-- Mostafa Mohamed: 1 gol (vs Nueva Zelanda, 58', J2)
-- Mahmoud Trezeguet: 1 gol (vs Nueva Zelanda, 82', J2)
-- Imam Ashour: 1 gol (vs Bélgica, 19', J1)
+- Mahmoud "Trezeguet" Hassan: 1 gol (82' vs Nueva Zelanda)
 
-## Historial vs rivales del grupo
-- vs Bélgica: **1E** en Mundial 2026 (1-1, J1). Amistosos previos: derrota 2-1.
-- vs Irán: pocos enfrentamientos, balance equilibrado.
-- vs Nueva Zelanda: sin antecedentes registrados.
+- Mahmoud "Trezeguet" Hassan: 1 gol (82' vs Irán)
 
-## Estado de ánimo
-Arranque ideal: empate 1-1 vs Bélgica y goleada 3-1 a Nueva Zelanda con Salah de figura. Egipto lidera el Grupo G con 4 puntos y está a un paso de octavos.
+- Mohamed Salah: 1 gol (17' vs Australia, ronda de 32)
+- Mostafa Mohamed: 1 gol (76' vs Australia, ronda de 32)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Bélgica 2-1 Egipto
-- **Real:** Bélgica 1-1 Egipto
-- **Diagnóstico:** Simulamos derrota 1-2 pero Egipto empató 1-1; Salah y la compactidad defensiva egipcia superan lo que asignaron los stats iniciales.
+- Mohamed Salah: 1 gol (65' vs Argentina, octavos de final)
 
----
-> Fuente: WebSearch parcial + conocimiento del modelo 2026-05-27.
+### Disciplina en eliminatorias
+- Amarillas: Mohamed Elneny (2026-07-07 vs Argentina)
+- Amarillas: Hamdi Fathi (2026-07-03 vs Australia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Marwan Hamdy (2026-06-15 vs Bélgica); Ahmed Fattouh (2026-06-21 vs Nueva Zelanda); Omar Kamal (2026-06-21 vs Nueva Zelanda); Ahmed Fattouh (2026-06-26 vs Irán); Omar Kamal (2026-06-26 vs Irán)
+- Lesiones / molestias: —

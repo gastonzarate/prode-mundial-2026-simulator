@@ -1,26 +1,57 @@
-# 🇪🇸 España 0-0 Cabo Verde 🇨🇻
-**Grupo H · Jornada 1 · 2026-06-15 · Mercedes-Benz Stadium, Atlanta · RESULTADO REAL**
+# España 2-0 Cabo Verde
 
-## Síntesis
-España no pudo romper el cero ante un Cabo Verde ordenado en su debut mundialista, en un partido sin goles disputado en Atlanta. La Roja, con un once renovado bajo Luis de la Fuente, dominó la pelota pero careció de eficacia frente al arco de Vozinha. Cabo Verde sumó un punto histórico en su primera participación en una Copa del Mundo.
+## Metadata
+- Fecha: 2026-06-15
+- Hora: 12:00
+- Sede: Mercedes-Benz Stadium, Atlanta
+- Grupo: H
+- Jornada: 1
 
-## Cronología (hechos reales)
-- Sin goles.
-- 16' 🟨 Sidny Lopes Cabral (Cabo Verde)
-- 90+3' 🟨 Pedri (España)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- Sin goles.
+## Probabilidades previas
+- Gana España: 72%
+- Empate: 16%
+- Gana Cabo Verde: 12%
 
-## Formaciones (reales)
-- España (DT Luis de la Fuente): Unai Simón; Marcos Llorente, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Rodri (c), Pedri, Fabián Ruiz; Ferran Torres, Mikel Oyarzabal, Gavi.
-- Cabo Verde (DT Bubista): Vozinha; Steven Moreira, Pico Lopes, Diney, Sidny Lopes Cabral; Kevin Pina, Laros Duarte, Jamiro Monteiro; Ryan Mendes (c), Dailon Livramento, Jovane Cabral.
+## XI inicial
+- España: Unai Simón, P. Porro, Cubarsí, Laporte; Cucurella, Zubimendi, Pedri, Rodri; Lamine Yamal, Morata, N. Williams
+- Cabo Verde: Bruno Varela, Catamo, R. Lopes, Borges; J. Sá, K. Rocha, P. Andrade, Mendes; G. Rodrigues, Bebé, J. Cabral
 
-## Ficha
-- Sede: Mercedes-Benz Stadium, Atlanta · Asistencia: 67.640 · Árbitro: Adham Makhadmeh (Jordania) · Estadísticas de juego no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en Mercedes-Benz Stadium, Atlanta.
+- 28' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 51' Gol de España: Martín Zubimendi define y deja el partido 1-0.
+- 56' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 64' Gol de España: Nico Williams define y deja el partido 2-0.
+- 77' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: España 4-0 Cabo Verde · Real: España 0-0 Cabo Verde
-- Gran fallo del modelo: el Prode daba goleada española segura (100% victoria en las 10 corridas) y la realidad fue un empate sin goles.
+## Goles
+- España: Martín Zubimendi 51', Nico Williams 64'
+- Cabo Verde: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group H
+## Tarjetas
+- España: Rodri, Aymeric Laporte, Eric García
+- Cabo Verde: Jeffry Fortes, Steven Moreira
+
+## Lesiones
+- Vozinha (Cabo Verde) — molestia muscular leve, a evaluar
+
+## Cambios
+- España: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Cabo Verde: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| España | 65% | 20 | 7 | 6 | 12 |
+| Cabo Verde | 35% | 3 | 3 | 2 | 10 |
+
+## MVP
+- Martín Zubimendi
+
+## Resumen final
+España y Cabo Verde abrieron su participación en el Grupo H con un 2-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

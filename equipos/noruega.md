@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 84
-- Moral: 89
+- Moral: 84
 - Cohesión: 80
 - Experiencia: 64
 - Agallas: 82
@@ -60,40 +60,52 @@
 4-3-3: Nyland; Ryerson, Ajer, Østigård, Meling; Berge, Berg; Nusa, Ødegaard, Sørloth; Haaland.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Senegal: 3-2 (V) — Grupo I J2 Mundial 2026
-- 2026-06-16 vs Irak: 4-1 (V) — Grupo I J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Israel: 5-0 (V)
 - 2026-03-XX vs Moldavia: 4-0 (V)
 - 2025-11-XX vs Italia: 3-1 (V) — eliminatorias
+- 2025-10-XX vs Estonia: 4-1 (V)
+- 2025-09-XX vs Suiza: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 77/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 7  | 3  | +4 | 6   |
+| 3 | 1 | 1 | 1 | 3 | 3 | 0 | 4 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Cuartos de final | Inglaterra | 1-2 | Eliminado en cuartos |
+| Octavos de final | Brasil | 1-2 | Eliminado |
+| Ronda de 32 | Costa de Marfil | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Erling Haaland: 4 goles (vs Irak 29' y 43', J1; vs Senegal 48' y 58', J2)
-- Leo Østigård: 1 gol (vs Irak, 76', J1)
-- Marcus Holmgren Pedersen: 1 gol (vs Senegal, 43', J2)
+- Sander Berge: 1 gol (26' vs Irak)
 
-## Historial vs rivales del grupo
-- vs Francia: balance 2V-2E-4D francés.
-- vs Senegal: sin antecedentes registrados.
-- vs Irak: 1V-0E-0D (4-1 · Mundial 2026 J1 · 2026-06-16).
+- Mohamed Elyounoussi: 1 gol (88' vs Senegal)
 
-## Estado de ánimo
-Dos victorias seguidas, 4-1 vs Irak y 3-2 vs Senegal, con Haaland imparable (4 goles, doblete en cada partido). Noruega ya tiene 6 puntos y la clasificación encaminada en el Grupo I.
+- Mohamed Elyounoussi: 1 gol (88' vs Francia)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Irak 0-4 Noruega
-- **Real:** Noruega 4-1 Irak
-- **Diagnóstico:** Acertamos la victoria y los 4 goles, pero Irak anotó 1 (fue 4-1 no 4-0); error menor en el marcador de Irak.
+- Erling Haaland: 1 gol (18' vs Costa de Marfil, ronda de 32)
+- Martin Ødegaard: 1 gol (72' vs Costa de Marfil, ronda de 32)
 
----
-> Fuente: conocimiento del modelo 2026-05-27 (NFF).
+- Erling Haaland: 1 gol (49' vs Brasil, octavos de final)
+
+- Erling Haaland: 1 gol (44' vs Inglaterra, cuartos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Sander Berge (2026-07-11 vs Inglaterra)
+- Amarillas: Martin Ødegaard (2026-07-05 vs Brasil)
+- Amarillas: Sander Berge (2026-06-30 vs Costa de Marfil)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Andreas Hanche-Olsen (2026-06-16 vs Irak); Antonio Nusa (2026-06-16 vs Irak); Stefan Strandberg (2026-06-16 vs Irak); Andreas Hanche-Olsen (2026-06-22 vs Senegal); Marius Lundemo (2026-06-22 vs Senegal); Andreas Hanche-Olsen (2026-06-26 vs Francia); Marius Lundemo (2026-06-26 vs Francia)
+- Lesiones / molestias: —

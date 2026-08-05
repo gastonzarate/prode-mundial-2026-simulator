@@ -1,36 +1,59 @@
-# 🇸🇪 Suecia 5-1 Túnez 🇹🇳
-**Grupo F · Jornada 1 · 2026-06-14 · Estadio BBVA, Guadalupe · RESULTADO REAL**
+# Suecia 3-1 Túnez
 
-## Síntesis
-Suecia goleó 5-1 a Túnez en el debut del Grupo F con un doblete de Yasin Ayari, que abrió a los 7' y cerró en el descuento. Alexander Isak, Viktor Gyökeres y Mattias Svanberg completaron la goleada; Omar Rekik había descontado para Túnez antes del descanso. Asistieron 50.987 espectadores al Estadio BBVA.
+## Metadata
+- Fecha: 2026-06-14
+- Hora: 20:00
+- Sede: Estadio BBVA, Guadalupe
+- Grupo: F
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 7' ⚽ Yasin Ayari (Suecia)
-- 30' ⚽ Alexander Isak (Suecia)
-- 43' ⚽ Omar Rekik (Túnez)
-- 54' 🟨 Rani Khedira (Túnez)
-- 59' ⚽ Viktor Gyökeres (Suecia)
-- 84' ⚽ Mattias Svanberg (Suecia)
-- 90+6' ⚽ Yasin Ayari (Suecia)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 7' Yasin Ayari (Suecia)
-- 30' Alexander Isak (Suecia)
-- 43' Omar Rekik (Túnez)
-- 59' Viktor Gyökeres (Suecia)
-- 84' Mattias Svanberg (Suecia)
-- 90+6' Yasin Ayari (Suecia)
+## Probabilidades previas
+- Gana Suecia: 53%
+- Empate: 25%
+- Gana Túnez: 22%
 
-## Formaciones (reales)
-- Suecia (DT Graham Potter): Nordfeldt; Lagerbielke, Hien, Lindelöf (C); Bernhardsson, Karlström, Ayari, Gudmundsson; Nygren; Gyökeres, Isak.
-- Túnez (DT Sabri Lamouchi): Chamakh; Rekik, Talbi, Ben Hamida; Valery, Abdi; Khedira, Skhiri (C), Mejbri; Saad, Ben Slimane.
+## XI inicial
+- Suecia: R. Olsen, Krafth, Lindelöf, Hien; Gudmundsson, Kulusevski, Svanberg, H. Larsson; Elanga, Gyökeres, Isak
+- Túnez: Dahmen, Dräger, Talbi, Bronn; Maâloul, Skhiri, Laïdouni, Ben Romdhane; Msakni, Jebali, Sliti
 
-## Ficha
-- Sede: Estadio BBVA, Guadalupe (Nuevo León) · Asistencia: 50.987 · Árbitro: Yael Falcón (Argentina)
-- Estadísticas detalladas: no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en Estadio BBVA, Guadalupe.
+- 16' Gol de Túnez: Seifeddine Jaziri define y deja el partido 0-1.
+- 21' Gol de Suecia: Alexander Isak define y deja el partido 1-1.
+- 24' Gol de Suecia: Anthony Elanga define y deja el partido 2-1.
+- 44' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 58' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 62' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 66' Gol de Suecia: Daniel Sundgren define y deja el partido 3-1.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Suecia 1-0 Túnez · Real: Suecia 5-1 Túnez
-- El pronóstico acertó el ganador pero subestimó por completo la contundencia sueca, que terminó goleando por cuatro de diferencia.
+## Goles
+- Suecia: Alexander Isak 21', Anthony Elanga 24', Daniel Sundgren 66'
+- Túnez: Seifeddine Jaziri 16'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group F
+## Tarjetas
+- Suecia: Isak Hien, Hugo Larsson
+- Túnez: Naïm Sliti, Mohamed Dräger, Ali Maâloul
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Suecia: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Túnez: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Suecia | 51% | 16 | 6 | 4 | 17 |
+| Túnez | 49% | 9 | 3 | 5 | 15 |
+
+## MVP
+- Alexander Isak
+
+## Resumen final
+Suecia y Túnez abrieron su participación en el Grupo F con un 3-1. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

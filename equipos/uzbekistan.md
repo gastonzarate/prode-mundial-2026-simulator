@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 70
 - Físico: 78
-- Moral: 66
+- Moral: 80
 - Cohesión: 80
 - Experiencia: 48
 - Agallas: 62
@@ -60,38 +60,26 @@
 4-3-3: Yusupov; Nasrullaev, Khusanov, Krimets, Erkinov; O. Shukurov, Alijonov, Fayzullaev; Masharipov, Shomurodov, Turgunboev.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Debut soñado convertido en pesadilla: en su primer Mundial, Uzbekistán cayó 1-3 vs Colombia en J1 (descontó Fayzullaev, 60') y fue goleado 0-5 vs Portugal en J2, con doblete de Cristiano Ronaldo. Sin puntos (GF1, GC8) y eliminado a falta de la última fecha.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs Portugal: 0-5 (D) — Grupo K J2 Mundial 2026 🌍
-- 2026-06-17 vs Colombia: 1-3 (D) — Grupo K J1 Mundial 2026 🌍
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Catar: 1-0 (V)
 - 2026-03-XX vs Irán: 1-1 (E)
 - 2025-11-XX vs Tayikistán: 2-0 (V)
+- 2025-10-XX vs Kirguistán: 3-1 (V)
+- 2025-09-XX vs Turkmenistán: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 43/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 1  | 8  | −7 | 0   |
+| 3 | 0 | 0 | 3 | 0 | 5 | −5 | 0 |
 
 ### Goleadores propios
-- Abbosbek Fayzullaev: 1 gol (60' vs Colombia, J1)
+- —
 
-## Historial vs rivales del grupo
-- vs Portugal: 0-5 (D) — 2026-06-23, Grupo K J2.
-- vs Colombia: 1-3 (D) — 2026-06-17, Grupo K J1.
-- vs RD Congo: sin antecedentes registrados.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Uzbekistán 0-2 Colombia
-- **Real:** Uzbekistán 1-3 Colombia
-- **Diagnóstico:** Acertamos al ganador y el arco en cero de Uzbekistán quedó corto: Colombia fue más contundente (3 goles) y Fayzullaev al menos descontó. El golpe se profundizó en J2 con el 0-5 ante Portugal.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (UFF).
+### Disciplina y disponibilidad
+- Amarillas: Abdukodir Khusanov (2026-06-17 vs Colombia); Abbosbek Fayzullaev (2026-06-17 vs Colombia); Sherzod Nasrullaev (2026-06-23 vs Portugal); Khojimat Erkinov (2026-06-23 vs Portugal); Sherzod Nasrullaev (2026-06-27 vs RD del Congo); Khojimat Erkinov (2026-06-27 vs RD del Congo)
+- Lesiones / molestias: —

@@ -21,7 +21,7 @@
 - Defensa: 82
 - Arco: 84
 - Físico: 86
-- Moral: 71
+- Moral: 76
 - Cohesión: 80
 - Experiencia: 76
 - Agallas: 80
@@ -61,39 +61,42 @@
 4-3-3: É. Mendy; Diatta, Koulibaly, A. Diallo, Jakobs; I. Gana Gueye, P. M. Sarr, Diarra; I. Sarr, Mané, Jackson.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Noruega: 2-3 (D) — Grupo I J2 Mundial 2026
-- 2026-06-16 vs Francia: 1-3 (D) — Grupo I J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Sudán: 4-0 (V)
 - 2026-03-XX vs Togo: 2-0 (V)
 - 2025-11-XX vs RD Congo: 2-1 (V)
+- 2025-10-XX vs Mauritania: 1-0 (V)
+- 2025-09-XX vs Burkina Faso: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 52/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 3  | 6  | −3 | 0   |
+| 3 | 1 | 1 | 1 | 4 | 4 | 0 | 4 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Bélgica | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Ismaïla Sarr: 2 goles (vs Noruega, 53' y 90+3', J2)
-- Ibrahim Mbaye: 1 gol (vs Francia, 90+5', J1)
+- Ismaïla Sarr: 1 gol (9' vs Francia)
 
-## Historial vs rivales del grupo
-- vs Francia: 1-0 victoria senegalesa Corea/Japón 2002; 3-0 derrota amistoso 2025.
-- vs Noruega: sin antecedentes registrados.
-- vs Irak: sin antecedentes registrados.
+- Ismaïla Sarr: 1 gol (88' vs Noruega)
 
-## Estado de ánimo
-Dos derrotas seguidas, 1-3 vs Francia y 2-3 vs Noruega, dejan a Senegal eliminado sin puntos. El doblete de Ismaïla Sarr ante Noruega no alcanzó para revertir un arranque para el olvido.
+- Ismaïla Sarr: 1 gol (88' vs Irak)
+- Boulaye Dia: 1 gol (14' vs Irak)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Francia 1-0 Senegal
-- **Real:** Francia 3-1 Senegal
-- **Diagnóstico:** Simulamos derrota 0-1 pero fue 1-3 — la derrota era esperable pero Senegal anotó, y Francia fue más contundente de lo que modelamos.
+- Sadio Mané: 1 gol (61' vs Bélgica, ronda de 32)
 
----
-> Fuente: conocimiento del modelo 2026-05-27 (FSF).
+### Disciplina en eliminatorias
+- Amarillas: Kalidou Koulibaly (2026-07-01 vs Bélgica)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Cheikhou Kouyaté (2026-06-16 vs Francia); Krépin Diatta (2026-06-22 vs Noruega); Kalidou Koulibaly (2026-06-22 vs Noruega); Krépin Diatta (2026-06-26 vs Irak); Kalidou Koulibaly (2026-06-26 vs Irak)
+- Lesiones / molestias: —

@@ -1,29 +1,55 @@
-# 🇰🇷 Corea del Sur 2-1 Chequia 🇨🇿
-**Grupo A · Jornada 1 · 2026-06-11 · Estadio Akron, Zapopan · RESULTADO REAL**
+# Corea del Sur 0-0 Chequia
 
-## Síntesis
-Corea del Sur remontó y le ganó 2-1 a Chequia en el Estadio Akron de Zapopan. Ladislav Krejčí adelantó a los checos a los 59', pero Hwang In-beom igualó a los 67' y Oh Hyeon-gyu dio vuelta el partido a los 80'. Triunfo coreano en el debut del Grupo A.
+## Metadata
+- Fecha: 2026-06-11
+- Hora: 20:00
+- Sede: Estadio Akron, Zapopan
+- Grupo: A
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 59' ⚽ Ladislav Krejčí (Chequia)
-- 67' ⚽ Hwang In-beom (Corea del Sur)
-- 80' ⚽ Oh Hyeon-gyu (Corea del Sur)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 59' Ladislav Krejčí (Chequia)
-- 67' Hwang In-beom (Corea del Sur)
-- 80' Oh Hyeon-gyu (Corea del Sur)
+## Probabilidades previas
+- Gana Corea del Sur: 53%
+- Empate: 25%
+- Gana Chequia: 22%
 
-## Formaciones (reales)
-- Corea del Sur (DT Hong Myung-bo): Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Son Heung-min ©, Lee Jae-sung.
-- Chequia (DT Miroslav Koubek): Matěj Kovář; Štěpán Chaloupek, Robin Hranáč, Ladislav Krejčí ©; Vladimír Coufal, Jaroslav Zelený; Tomáš Souček, Lukáš Provod; Alexandr Sojka, Patrik Schick, Pavel Šulc.
+## XI inicial
+- Corea del Sur: Jo H.-w, Seol, Kim M.-j, J. Castrop; Kim T.-h, Hwang I.-b, Lee J.-s, Son; Lee K.-i, Hwang H.-c, Cho G.-s
+- Chequia: Staněk, Coufal, Krejčí, Hranáč; Jurásek, Souček, Provod, Hložek; Barák, Šulc, Schick
 
-## Ficha
-- Sede: Estadio Akron, Zapopan · Asistencia: 44.985 · Árbitro: Amin Mohamed Omar (Egipto)
-- Estadísticas detalladas no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en Estadio Akron, Zapopan.
+- 32' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 63' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 79' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Corea 1-1 Chequia · Real: Corea del Sur 2-1 Chequia
-- El Prode anticipó un empate pero el partido lo ganó Corea con una remontada; Oh Hyeon-gyu, ausente en el XI simulado, definió desde el banco.
+## Goles
+- Corea del Sur: —
+- Chequia: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group A
+## Tarjetas
+- Corea del Sur: Jens Castrop, Paik Seung-ho, Eom Ji-sung
+- Chequia: David Douděra, Antonín Barák
+
+## Lesiones
+- Vladimír Coufal (Chequia) — molestia muscular leve, a evaluar
+
+## Cambios
+- Corea del Sur: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Chequia: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Corea del Sur | 51% | 7 | 3 | 3 | 12 |
+| Chequia | 49% | 9 | 1 | 4 | 13 |
+
+## MVP
+- Kim Jin-gyu
+
+## Resumen final
+Corea del Sur y Chequia abrieron su participación en el Grupo A con un 0-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

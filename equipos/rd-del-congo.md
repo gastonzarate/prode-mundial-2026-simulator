@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 74
 - Físico: 84
-- Moral: 77
+- Moral: 76
 - Cohesión: 78
 - Experiencia: 65
 - Agallas: 72
@@ -60,38 +60,35 @@
 4-2-3-1: Mpasi; Kalulu, Mbemba, Batubinsika, Masuaku; Pickel, E. Kayembe; Wissa, Bongonda, S. Katompa; Bakambu.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Arranque agridulce: golazo de moral con el 1-1 vs Portugal en J1 (Wissa empató en el 45+5'), pero derrota 0-1 vs Colombia en J2 (gol de Daniel Muñoz, 76'). Con 1 punto (GF1, GC2), la clasificación se complica y todo se define en J3.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs Colombia: 0-1 (D) — Grupo K J2 Mundial 2026 🌍
-- 2026-06-17 vs Portugal: 1-1 (E) — Grupo K J1 Mundial 2026 🌍
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Senegal: 1-2 (D)
 - 2026-03-XX vs Mauritania: 3-0 (V)
 - 2025-11-XX vs Sudán: 2-0 (V)
+- 2025-10-XX vs Togo: 2-1 (V)
+- 2025-09-XX vs Marruecos: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 56/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 1  | 2  | −1 | 1   |
+| 3 | 1 | 0 | 2 | 1 | 3 | −2 | 3 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Inglaterra | 0-3 | Eliminado |
 
 ### Goleadores propios
-- Yoane Wissa: 1 gol (45+5' vs Portugal, J1)
+- Yoane Wissa: 1 gol (63' vs Uzbekistán)
 
-## Historial vs rivales del grupo
-- vs Portugal: 1 partido — 2026-06-17 Mundial J1: RD del Congo 1-1 Portugal.
-- vs Colombia: 0-1 (D) — 2026-06-23 Mundial J2.
-- vs Uzbekistán: sin antecedentes registrados.
+### Disciplina en eliminatorias
+- Amarillas: Chancel Mbemba (2026-07-01 vs Inglaterra)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
-## Simulación vs Realidad (J1)
-- **Simulado:** RD del Congo 1-2 Portugal
-- **Real:** RD del Congo 1-1 Portugal
-- **Diagnóstico:** Subestimamos a RD del Congo: el modelo le dio la derrota, pero rescató un empate ante Portugal con el gol de Wissa en el 45+5'. La épica del debut no alcanzó: en J2 cayó 0-1 con Colombia.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (FECOFA).
+### Disciplina y disponibilidad
+- Amarillas: Henoc Inonga (2026-06-17 vs Portugal); Arthur Masuaku (2026-06-23 vs Colombia); Chancel Mbemba (2026-06-23 vs Colombia); Arthur Masuaku (2026-06-27 vs Uzbekistán); Chancel Mbemba (2026-06-27 vs Uzbekistán)
+- Lesiones / molestias: —

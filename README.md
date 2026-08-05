@@ -1,6 +1,6 @@
 # Prode Mundial 2026
 
-Sistema para simular partido a partido la fase de grupos del Mundial 2026 (FIFA World Cup 2026, USA/Canadá/México, 48 selecciones) y generar predicciones para un prode.
+Sistema para simular partido a partido el Mundial 2026 (FIFA World Cup 2026, USA/Canadá/México, 48 selecciones) y generar predicciones para un prode.
 
 ## Cómo funciona
 
@@ -17,7 +17,7 @@ Sistema para simular partido a partido la fase de grupos del Mundial 2026 (FIFA 
    - Escribe `partidos/YYYY-MM-DD-<local>-vs-<visitante>.md`.
    - Actualiza los MDs de los dos equipos, `fixture.md` y `grupos.md`.
 
-3. **Iterar**: repetir paso 2 hasta completar los 72 partidos. El prode se completa con los resultados de la corrida oficial de cada partido.
+3. **Iterar**: repetir paso 2 hasta completar los partidos. El prode se completa con los resultados de la corrida oficial de cada partido.
 
 ## Cómo se infieren las stats numéricas
 
@@ -38,9 +38,23 @@ Estas stats luego evolucionan partido a partido (carga, moral, lesiones, suspend
 - `fixture.md` — calendario y resultados.
 - `grupos.md` — tablas de posiciones.
 - `partidos/YYYY-MM-DD-<local>-vs-<visitante>.md` — relato y stats de cada partido jugado.
+- `dashboard/` — visual HTML estática para ver resultados y tablas.
 - `docs/superpowers/specs/` — diseño.
 - `docs/superpowers/plans/` — plan de implementación.
 - `.claude/skills/` — las dos skills.
+
+## Dashboard HTML
+
+Para ver una interfaz bonita en navegador con datos en vivo desde `fixture.md` y `grupos.md`:
+
+```bash
+cd /home/andy/repos/prode-mundial-2026-simulator
+python3 -m http.server 8080
+```
+
+Después abrir:
+
+- `http://localhost:8080/dashboard/`
 
 ## Marco narrativo
 
@@ -53,6 +67,11 @@ Todo en **español argentino**: relatos, archivos, comentarios.
 ## Estado
 
 - ✅ Skills implementadas: `inicializar-mundial`, `simular-partido`.
-- ⏭ Bootstrap pendiente: invocar `inicializar-mundial` para generar `fixture.md`, `grupos.md` y los 48 archivos de `equipos/`.
-- 🏃 Simulación pendiente. Partidos completados: 0/72. Ver `fixture.md` tras el bootstrap.
-- 🚧 Eliminatorias fuera de alcance — spec separado a partir de fase de grupos completa.
+- ✅ Fase de grupos completa: 72/72 partidos.
+- ✅ Ronda de 32 completa: 16/16 partidos.
+- ✅ Octavos de final completos: 8/8 partidos.
+- ✅ Cuartos de final completos: 4/4 partidos.
+- ✅ Semifinales completas: 2/2 partidos.
+- 🌐 La fase eliminatoria sigue el cuadro oficial real de FIFA; la fase de grupos conserva la simulación histórica del repo.
+- ✅ Partido por el tercer puesto y final completos: 2/2 partidos.
+- 🏆 Campeón simulado: Argentina (4-3 por penales ante España tras empatar 1-1).

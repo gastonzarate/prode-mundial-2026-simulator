@@ -1,29 +1,56 @@
-# 🇶🇦 Catar 1-1 Suiza 🇨🇭
-**Grupo B · Jornada 1 · 2026-06-13 · Levi's Stadium, Santa Clara · RESULTADO REAL**
+# Catar 0-1 Suiza
 
-## Síntesis
-Catar y Suiza igualaron 1-1 en su debut del Grupo B ante 67.966 espectadores en el Levi's Stadium de Santa Clara. Breel Embolo abrió el marcador de penal a los 17 minutos para Suiza, pero un autogol de Miro Muheim en el minuto 90+4 le dio el empate a Catar sobre el final. Hubo tres amonestados en total.
+## Metadata
+- Fecha: 2026-06-13
+- Hora: 12:00
+- Sede: Levi's Stadium, Santa Clara
+- Grupo: B
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 14' 🟨 Mahmud Abunada (Catar)
-- 17' ⚽ Breel Embolo (Suiza) penal
-- 23' 🟨 Jassem Gaber (Catar)
-- 42' 🟨 Denis Zakaria (Suiza)
-- 90+4' ⚽ Miro Muheim (autogol, en contra de Suiza — cuenta para Catar)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 17' Breel Embolo (Suiza) de penal
-- 90+4' autogol de Miro Muheim (a favor de Catar)
+## Probabilidades previas
+- Gana Catar: 18%
+- Empate: 24%
+- Gana Suiza: 58%
 
-## Formaciones (reales)
-- Catar (DT Julen Lopetegui): Abunada; Al-Oui, Pedro Miguel, Khoukhi, Homam Ahmed; Gaber, Issa Laye, Edmilson Junior, Madibo; Afif, Abdurisag.
-- Suiza (DT Murat Yakin): Kobel; Zakaria, Akanji, Elvedi, Rodríguez; Aebischer, Xhaka, Freuler; Ndoye, Embolo, Vargas.
+## XI inicial
+- Catar: Barsham, P. Miguel, Khoukhi, Al-Rawi; H. Ahmed, Hatem, Madibo, Boudiaf; T. Salman, Afif, Almoez Ali
+- Suiza: Sommer, Widmer, Akanji, Elvedi; Rodríguez, Xhaka, Freuler, Ndoye; Aebischer, Embolo, Okafor
 
-## Ficha
-- Sede: Levi's Stadium, Santa Clara · Asistencia: 67.966 · Árbitro: Saíd Martínez (Honduras) · Estadísticas detalladas no disponibles en la fuente. Miro Muheim (autor del autogol) ingresó desde el banco.
+## Relato minuto a minuto
+- 1' Arranca el partido en Levi's Stadium, Santa Clara.
+- 5' Gol de Suiza: Breel Embolo define y deja el partido 0-1.
+- 35' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 42' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 60' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Catar 0-2 Suiza · Real: Catar 1-1 Suiza
-- La simulación dio ganadora a Suiza, pero el resultado real fue empate: Catar lo rescató con un autogol agónico de Muheim en el 90+4 tras el penal de Embolo.
+## Goles
+- Catar: —
+- Suiza: Breel Embolo 5'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group B
+## Tarjetas
+- Catar: Bassam Al-Rawi, Mohammed Waad, Jassem Gaber
+- Suiza: Manuel Akanji, Djibril Sow, Remo Freuler
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Catar: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Suiza: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Catar | 42% | 8 | 5 | 7 | 15 |
+| Suiza | 58% | 12 | 2 | 7 | 12 |
+
+## MVP
+- Breel Embolo
+
+## Resumen final
+Catar y Suiza abrieron su participación en el Grupo B con un 0-1. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

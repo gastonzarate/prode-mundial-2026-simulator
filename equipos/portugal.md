@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 80
 - Físico: 80
-- Moral: 87
+- Moral: 86
 - Cohesión: 80
 - Experiencia: 86
 - Agallas: 85
@@ -60,42 +60,47 @@
 4-3-3: D. Costa; Dalot, R. Dias, Inácio, N. Mendes; Vitinha, Palhinha, B. Fernandes; B. Silva, C. Ronaldo, R. Leão.
 
 ## Lesionados / Suspendidos
-- En memoria: Diogo Jota (lesión previa, fuera de lista).
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial). En memoria: Diogo Jota.
 
-## Estado de ánimo
-Arranque sólido: 1-1 vs RD del Congo en J1 (João Neves 6', empate de Wissa en el 45+5') y goleada 5-0 vs Uzbekistán en J2, con doblete de Cristiano Ronaldo (6' y 39'), que marcó en su sexto Mundial distinto, un registro histórico. Líder parcial del Grupo K con 4 puntos (GF6, GC1) tras ceder dos puntos en el debut.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs Uzbekistán: 5-0 (V) — Grupo K J2 Mundial 2026 🌍
-- 2026-06-17 vs RD del Congo: 1-1 (E) — Grupo K J1 Mundial 2026 🌍
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs España: 1-1 (E)
 - 2026-03-XX vs Croacia: 2-1 (V)
 - 2025-11-XX vs Polonia: 3-1 (V)
+- 2025-10-XX vs Eslovaquia: 2-0 (V)
+- 2025-09-XX vs Irlanda: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 68/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 6  | 1  | +5 | 4   |
+| 3 | 2 | 1 | 0 | 4 | 1 | +3 | 7 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | España | 1-2 | Eliminado |
+| Ronda de 32 | Croacia | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Cristiano Ronaldo: 2 goles (6' y 39' vs Uzbekistán, J2)
-- João Neves: 1 gol (6' vs RD del Congo, J1)
-- Nuno Mendes: 1 gol (17' vs Uzbekistán, J2)
-- Rafael Leão: 1 gol (87' vs Uzbekistán, J2)
+- Pedro Neto: 1 gol (23' vs RD del Congo)
 
-## Historial vs rivales del grupo
-- vs Colombia: amistoso 1-0 victoria portuguesa 2024.
-- vs Uzbekistán: 5-0 (V) — 2026-06-23 Mundial J2.
-- vs RD Congo: 1 partido — 2026-06-17 Mundial J1: Portugal 1-1 RD del Congo.
+- Cristiano Ronaldo: 1 gol (14' vs Uzbekistán)
+- Gonçalo Ramos: 1 gol (27' vs Uzbekistán)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Portugal 2-1 RD del Congo
-- **Real:** Portugal 1-1 RD del Congo
-- **Diagnóstico:** Sobrestimamos a Portugal: el modelo le dio la victoria, pero RD del Congo rescató un empate con el gol de Wissa en el 45+5'. Portugal se desquitó en J2 con un 5-0 a Uzbekistán.
+- Cristiano Ronaldo: 1 gol (14' vs Colombia)
 
----
-> Fuente: WebSearch 2026-05-27 (Record, A Bola, FPF).
+- Bruno Fernandes: 1 gol (38' vs Croacia, ronda de 32)
+- Rafael Leão: 1 gol (83' vs Croacia, ronda de 32)
+
+- Bruno Fernandes: 1 gol (31' vs España, octavos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Rúben Dias (2026-07-06 vs España)
+- Amarillas: João Palhinha (2026-07-02 vs Croacia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Gonçalo Inácio (2026-06-17 vs RD del Congo); Vitinha (2026-06-17 vs RD del Congo); Diogo Dalot (2026-06-23 vs Uzbekistán); Rúben Dias (2026-06-23 vs Uzbekistán); Diogo Dalot (2026-06-27 vs Colombia); Rúben Dias (2026-06-27 vs Colombia)
+- Lesiones / molestias: —

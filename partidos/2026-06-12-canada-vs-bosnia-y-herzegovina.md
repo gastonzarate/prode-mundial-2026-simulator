@@ -1,31 +1,57 @@
-# 🇨🇦 Canadá 1-1 Bosnia y Herzegovina 🇧🇦
-**Grupo B · Jornada 1 · 2026-06-12 · BMO Field, Toronto · RESULTADO REAL**
+# Canadá 2-0 Bosnia y Herzegovina
 
-## Síntesis
-Canadá, co-anfitrión, debutó en el Grupo B con un empate 1-1 ante Bosnia y Herzegovina en un BMO Field con 43.002 espectadores. Jovo Lukić puso en ventaja a Bosnia a los 21 minutos y Cyle Larin igualó para los locales a los 78. El partido dejó cinco amonestados (dos canadienses, tres bosnios).
+## Metadata
+- Fecha: 2026-06-12
+- Hora: 15:00
+- Sede: BMO Field, Toronto
+- Grupo: B
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 11' 🟨 Alistair Johnston (Canadá)
-- 21' ⚽ Jovo Lukić (Bosnia y Herzegovina)
-- 44' 🟨 Ermedin Demirović (Bosnia y Herzegovina)
-- 45+1' 🟨 Jovo Lukić (Bosnia y Herzegovina)
-- 53' 🟨 Luc de Fougerolles (Canadá)
-- 78' ⚽ Cyle Larin (Canadá)
-- 90+3' 🟨 Nikola Katić (Bosnia y Herzegovina)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 21' Jovo Lukić (Bosnia y Herzegovina)
-- 78' Cyle Larin (Canadá)
+## Probabilidades previas
+- Gana Canadá: 58%
+- Empate: 24%
+- Gana Bosnia y Herzegovina: 18%
 
-## Formaciones (reales)
-- Canadá (DT Jesse Marsch): Crépeau; A. Johnston, de Fougerolles, Cornelius, Laryea; Buchanan, Eustáquio, Koné, Millar; J. David, Oluwaseyi.
-- Bosnia y Herzegovina (DT Sergej Barbarez): Vasilj; Dedić, Katić, Muharemović, Kolašinac; Bajraktarević, Bašić, Tahirović, Memić; Demirović, Lukić.
+## XI inicial
+- Canadá: Crépeau, A. Johnston, Bombito, Cornelius; Adekugbe, Eustáquio, Koné, Sigur; Buchanan, J. David, Davies
+- Bosnia y Herzegovina: Vasilj, Dedić, Ahmedhodžić, Katić; Kolašinac, Krunić, Pjanić, Tahirović; Višća, Džeko, Demirović
 
-## Ficha
-- Sede: BMO Field, Toronto · Asistencia: 43.002 · Árbitro: Facundo Tello (Argentina) · Estadísticas detalladas no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en BMO Field, Toronto.
+- 20' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 40' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 47' Gol de Canadá: Jonathan Osorio define y deja el partido 1-0.
+- 63' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 67' Gol de Canadá: Theo Bair define y deja el partido 2-0.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Canadá 0-0 · Real: Canadá 1-1 Bosnia y Herzegovina
-- La simulación acertó el reparto de puntos (empate) pero falló el marcador: el partido real tuvo goles de Lukić y Larin en lugar del 0-0 sin emociones proyectado.
+## Goles
+- Canadá: Jonathan Osorio 47', Theo Bair 67'
+- Bosnia y Herzegovina: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group B
+## Tarjetas
+- Canadá: Alistair Johnston, Niko Sigur, Derek Cornelius
+- Bosnia y Herzegovina: Amar Memić, Nikola Katić, Sead Kolašinac
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Canadá: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Bosnia y Herzegovina: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Canadá | 59% | 14 | 6 | 4 | 10 |
+| Bosnia y Herzegovina | 41% | 10 | 2 | 6 | 17 |
+
+## MVP
+- Jonathan Osorio
+
+## Resumen final
+Canadá y Bosnia y Herzegovina abrieron su participación en el Grupo B con un 2-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

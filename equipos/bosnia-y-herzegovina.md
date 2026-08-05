@@ -21,7 +21,7 @@
 - Defensa: 70
 - Arco: 72
 - Físico: 70
-- Moral: 79
+- Moral: 80
 - Cohesión: 78
 - Experiencia: 76
 - Agallas: 76
@@ -60,39 +60,37 @@
 4-3-3: Vasilj; Dedić, Ahmedhodžić, Katić, Kolašinac; Krunić, Pjanić, Tahirović; Višća, Džeko, Demirović.
 
 ## Lesionados / Suspendidos
-- Tarik Muharemović (DEF): roja directa (min. 80 vs Suiza, J2). **Suspendido para J3.**
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs Suiza: 1-4 (D) — Grupo B J2 Mundial 2026
-- 2026-06-12 vs Canadá: 1-1 (E) — Grupo B J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Italia: 1-1 (4-2 pen, V) — repechaje final
 - 2026-03-XX vs Gales: 0-0 (5-3 pen, V) — semi repechaje
 - 2025-11-XX vs Eslovaquia: 1-1 (E)
+- 2025-10-XX vs Austria: 1-2 (D)
+- 2025-09-XX vs Liechtenstein: 6-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 54/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 2  | 5  | -3 | 1   |
+| 3 | 1 | 0 | 2 | 2 | 4 | −2 | 3 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Estados Unidos | 0-2 | Eliminado |
 
 ### Goleadores propios
-- Jovo Lukić: 1 gol (vs Canadá, 21', J1)
-- Ermin Mahmić: 1 gol (vs Suiza, 90+3', J2)
+- Ermedin Demirović: 1 gol (63' vs Suiza)
 
-## Historial vs rivales del grupo
-- vs Canadá: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
-- vs Suiza: rivalidad UEFA, balance ligeramente favorable a Suiza.
-- vs Catar: sin antecedentes registrados.
+- Ermedin Demirović: 1 gol (63' vs Catar)
 
-## Estado de ánimo
-El buen punto del 1-1 vs Canadá quedó sepultado por la dura caída 1-4 ante Suiza, con expulsión de Muharemović incluida. Los Dragones quedaron golpeados y al borde de la eliminación, obligados a ganar en J3.
+### Disciplina en eliminatorias
+- Amarillas: Sead Kolašinac (2026-07-01 vs Estados Unidos)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Bosnia y Herzegovina 0-0 Canadá
-- **Real:** Bosnia y Herzegovina 1-1 Canadá
-- **Diagnóstico:** Simulamos 0-0, fue 1-1; acertamos el empate pero el modelo subestimó la capacidad goleadora de Džeko.
-
----
-> Fuente: WebSearch 2026-05-27 (FIFA, beIN Sports).
+### Disciplina y disponibilidad
+- Amarillas: Amar Memić (2026-06-12 vs Canadá); Nikola Katić (2026-06-12 vs Canadá); Sead Kolašinac (2026-06-12 vs Canadá); Sead Kolašinac (2026-06-18 vs Suiza); Amar Dedić (2026-06-18 vs Suiza); Sead Kolašinac (2026-06-24 vs Catar); Amar Dedić (2026-06-24 vs Catar)
+- Lesiones / molestias: —

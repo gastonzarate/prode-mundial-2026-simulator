@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 74
 - Físico: 76
-- Moral: 67
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 68
 - Agallas: 68
@@ -60,38 +60,28 @@
 4-2-3-1: U. Çakır; Ç. Söyüncü, M. Demiral, Kabak, F. Kadıoğlu; Çalhanoğlu, Kökçü; A. Güler, K. Yıldız, K. Aktürkoğlu; C. Ünder.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-19 vs Paraguay: 0-1 (D) — Grupo D J2 Mundial 2026
-- 2026-06-14 vs Australia: 0-2 (D) — Grupo D J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Hungría: 3-1 (V)
 - 2026-03-XX vs Austria: 1-2 (D)
 - 2025-11-XX vs Bulgaria: 6-1 (V)
+- 2025-11-XX vs Georgia: 3-2 (V)
+- 2025-10-XX vs España: 0-3 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 42/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 0  | 3  | −3 | 0   |
+| 3 | 0 | 1 | 2 | 2 | 6 | −4 | 1 |
 
 ### Goleadores propios
-- Sin goles propios en el Mundial.
+- Kenan Yıldız: 1 gol (88' vs Paraguay)
 
-## Historial vs rivales del grupo
-- vs EE.UU.: 1-1 amistoso 2022, victoria turca 2-1 amistoso 2020.
-- vs Australia: sin antecedentes registrados.
-- vs Paraguay: sin antecedentes registrados.
+- Kenan Yıldız: 1 gol (88' vs Estados Unidos)
 
-## Estado de ánimo
-Golpe duro: dos derrotas al hilo, 0-2 vs Australia y 0-1 vs Paraguay, sin marcar un solo gol. Sin puntos y eliminada del Mundial a falta de J3, un fracaso enorme para el talento del plantel.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** 1-1 vs Australia
-- **Real:** 0-2 vs Australia
-- **Diagnóstico:** Error de resultado: simulamos empate 1-1 pero perdieron 0-2 ante Australia; Turquía rindió por debajo de sus stats proyectadas.
-
----
-> Fuente: WebSearch 2026-05-27 (Daily Sabah, FourFourTwo, Türkiye Today).
+### Disciplina y disponibilidad
+- Amarillas: Arda Güler (2026-06-14 vs Australia); Salih Özcan (2026-06-14 vs Australia); İsmail Yüksek (2026-06-14 vs Australia); Zeki Çelik (2026-06-20 vs Paraguay); Merih Demiral (2026-06-20 vs Paraguay); Zeki Çelik (2026-06-25 vs Estados Unidos); Merih Demiral (2026-06-25 vs Estados Unidos)
+- Lesiones / molestias: —

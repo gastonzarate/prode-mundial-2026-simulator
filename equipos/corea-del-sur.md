@@ -21,7 +21,7 @@
 - Defensa: 73
 - Arco: 73
 - Físico: 80
-- Moral: 71
+- Moral: 75
 - Cohesión: 80
 - Experiencia: 75
 - Agallas: 88
@@ -60,39 +60,28 @@
 4-2-3-1: Jo H.-w.; Seol, Kim M.-j., J. Castrop, Kim T.-h.; Hwang I.-b., Lee J.-s.; Son, Lee K.-i., Hwang H.-c.; Cho G.-s.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo / Capilla
-Tras ganar 2-1 a Chequia en el debut, cayó 0-1 vs México (gol de Romo 50'). Queda con 3 puntos en el Grupo A y se jugará la clasificación en J3.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs México: 0-1 (D) — Grupo A J2 Mundial 2026
-- 2026-06-11 vs Chequia: 2-1 (V) — Grupo A J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Japón: 1-2 (D)
 - 2026-03-XX vs Bahréin: 4-0 (V)
 - 2025-11-XX vs Kuwait: 3-0 (V)
+- 2025-10-XX vs Irán: 1-1 (E)
+- 2025-09-XX vs Australia: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 44/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
+| 3 | 1 | 2 | 0 | 2 | 1 | +1 | 5 |
 
 ### Goleadores propios
-- Hwang In-beom: 1 gol (vs Chequia, 67', J1)
-- Oh Hyeon-gyu: 1 gol (vs Chequia, 80', J1)
+- Son Heung-min: 1 gol (74' vs México)
 
-## Historial vs rivales del grupo
-- vs México: 5 enfrentamientos, balance equilibrado (incluye victoria coreana 2-1 en Rusia 2018).
-- vs Sudáfrica: 1-1 último amistoso, ventaja sudafricana 2-1 cara a cara.
-- vs Chequia: 2-0 victoria coreana amistoso 2018.
+- Son Heung-min: 1 gol (74' vs Sudáfrica)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Corea del Sur 1-1 Chequia
-- **Real:** Corea del Sur 2-1 Chequia
-- **Diagnóstico:** Error de resultado: simulamos empate (1-1) pero Corea ganó 2-1; el diferencial de fuerza fue mayor de lo que el modelo estimó.
-
----
-> Fuente: WebSearch 2026-05-27 (ESPN, beIN Sports, FourFourTwo).
+### Disciplina y disponibilidad
+- Amarillas: Jens Castrop (2026-06-11 vs Chequia); Paik Seung-ho (2026-06-11 vs Chequia); Eom Ji-sung (2026-06-11 vs Chequia); Kim Moon-hwan (2026-06-18 vs México); Kim Min-jae (2026-06-18 vs México); Kim Moon-hwan (2026-06-24 vs Sudáfrica); Kim Min-jae (2026-06-24 vs Sudáfrica)
+- Lesiones / molestias: —

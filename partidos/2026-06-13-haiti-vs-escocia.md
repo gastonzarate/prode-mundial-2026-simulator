@@ -1,28 +1,56 @@
-# 🇭🇹 Haití 0-1 Escocia 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-**Grupo C · Jornada 1 · 2026-06-13 · Gillette Stadium, Foxborough · RESULTADO REAL**
+# Haití 0-1 Escocia
 
-## Síntesis
-Escocia se impuso 0-1 a Haití en Foxborough con un gol de John McGinn a los 28'. Fue la única conquista del partido y le dio a Escocia sus primeros tres puntos del Grupo C. Haití no logró marcar y sumó cuatro amonestados Escocia frente a uno haitiano.
+## Metadata
+- Fecha: 2026-06-13
+- Hora: 21:00
+- Sede: Gillette Stadium, Foxborough
+- Grupo: C
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 28' ⚽ John McGinn (Escocia)
-- 39' 🟨 Jean-Ricner Bellegarde (Haití)
-- 46' 🟨 Aaron Hickey (Escocia)
-- 90+1' 🟨 Findlay Curtis (Escocia)
-- 90+5' 🟨 Kenny McLean (Escocia)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 28' John McGinn (Escocia)
+## Probabilidades previas
+- Gana Haití: 18%
+- Empate: 22%
+- Gana Escocia: 60%
 
-## Formaciones (reales)
-- Haití (DT Sébastien Migné): Johny Placide (C); Carlens Arcus, Ricardo Adé, Hannes Delcroix, Martin Expérience; Louicius Deedson, Danley Jean Jacques, Jean-Ricner Bellegarde, Ruben Providence; Frantzdy Pierrot, Wilson Isidor
-- Escocia (DT Steve Clarke): Angus Gunn; Aaron Hickey, Grant Hanley, Jack Hendry, Andy Robertson (C); Ben Gannon-Doak, Scott McTominay, Lewis Ferguson, John McGinn; Lawrence Shankland, Ché Adams
+## XI inicial
+- Haití: Placide, Duverne, R. Adé, Jean-Baptiste; Arcus, Saba, Jean Jacques, Sandapa; Lambese, W. Isidor, Nazon
+- Escocia: Gunn, Hanley, Hendry, Tierney; Patterson, McGinn, Gilmour, Robertson; McTominay, Doak, Adams
 
-## Ficha
-- Sede: Gillette Stadium, Foxborough, Massachusetts · Asistencia: 64.146 · Árbitro: Mustapha Ghorbal (Argelia)
+## Relato minuto a minuto
+- 1' Arranca el partido en Gillette Stadium, Foxborough.
+- 58' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 67' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 68' Gol de Escocia: Ryan Christie define y deja el partido 0-1.
+- 75' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Haití 0-2 Escocia · Real: Haití 0-1 Escocia
-- El Prode acertó al ganador y el cero de Haití, pero sobrestimó el marcador: Escocia ganó por la mínima, no por dos.
+## Goles
+- Haití: —
+- Escocia: Ryan Christie 68'
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group C
+## Tarjetas
+- Haití: Romain Genevois
+- Escocia: Findlay Curtis
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Haití: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Escocia: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Haití | 39% | 4 | 4 | 3 | 15 |
+| Escocia | 61% | 16 | 6 | 7 | 17 |
+
+## MVP
+- Ryan Christie
+
+## Resumen final
+Haití y Escocia abrieron su participación en el Grupo C con un 0-1. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 74
 - Físico: 82
-- Moral: 77 *(-8 — goleada en contra J2)*
+- Moral: 78
 - Cohesión: 76
 - Experiencia: 72
 - Agallas: 75
@@ -60,42 +60,43 @@
 4-4-2: R. Olsen; Krafth, Lindelöf, Hien, Gudmundsson; Kulusevski, Svanberg, H. Larsson, Elanga; Gyökeres, Isak.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-20 vs Países Bajos: 1-5 (D) — Grupo F J2 Mundial 2026
-- 2026-06-14 vs Túnez: 5-1 (V) — Grupo F J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Chequia: 1-1 (E)
 - 2026-03-XX vs Albania: 4-1 (V)
 - 2025-11-XX vs Suiza: 2-1 (V)
+- 2025-10-XX vs Eslovenia: 2-1 (V)
+- 2025-09-XX vs Estonia: 3-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100 *(+13 J1; +12 J2)*
+- 55/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 6  | 6  | 0  | 3   |
+| 3 | 1 | 1 | 1 | 5 | 4 | +1 | 4 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Francia | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Yasin Ayari: 2 goles (vs Túnez, 7' y 90+6', J1)
-- Alexander Isak: 1 gol (vs Túnez, 30', J1)
-- Viktor Gyökeres: 1 gol (vs Túnez, 59', J1)
-- Mattias Svanberg: 1 gol (vs Túnez, 84', J1)
-- Anthony Elanga: 1 gol (vs Países Bajos, 59', J2)
+- Alexander Isak: 1 gol (21' vs Túnez)
+- Anthony Elanga: 1 gol (24' vs Túnez)
+- Daniel Sundgren: 1 gol (66' vs Túnez)
 
-## Historial vs rivales del grupo
-- vs Países Bajos: rivalidad UEFA, balance 2V-2E-1D sueco.
-- vs Japón: pocos enfrentamientos, balance equilibrado.
-- vs Túnez: 1V — 2026-06-14 Suecia 5-1 Túnez (Grupo F J1).
+- Dejan Kulusevski: 1 gol (82' vs Países Bajos)
 
-## Estado de ánimo
-Del sueño al golpe: tras golear 5-1 a Túnez, Suecia cayó 1-5 ante Países Bajos en J2. La defensa quedó expuesta y se juegan la clasificación en la última fecha con 3 puntos.
+- Dejan Kulusevski: 1 gol (82' vs Japón)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Victoria 1-0 vs Túnez
-- **Real:** Victoria 5-1 vs Túnez
-- **Diagnóstico:** Acertamos el ganador pero 5-1 vs 1-0 simulado; Túnez fue mucho más débil de lo proyectado y Suecia demostró ser más ofensiva.
+- Alexander Isak: 1 gol (58' vs Francia, ronda de 32)
 
----
-> Fuente: WebSearch parcial + conocimiento del modelo 2026-05-27.
+### Disciplina en eliminatorias
+- Amarillas: Victor Lindelöf (2026-06-30 vs Francia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Isak Hien (2026-06-14 vs Túnez); Hugo Larsson (2026-06-14 vs Túnez); Emil Krafth (2026-06-20 vs Países Bajos); Victor Lindelöf (2026-06-20 vs Países Bajos); Emil Krafth (2026-06-25 vs Japón); Victor Lindelöf (2026-06-25 vs Japón)
+- Lesiones / molestias: —

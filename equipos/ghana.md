@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 70
 - Físico: 84
-- Moral: 82
+- Moral: 72
 - Cohesión: 76
 - Experiencia: 70
 - Agallas: 74
@@ -73,25 +73,31 @@ Arranque inmejorable y con la valla en cero: triunfo agónico 1-0 sobre Panamá 
 - 2025-11-XX vs Mali: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 53/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 1  | 0  | +1 | 4   |
+| 3 | 0 | 0 | 3 | 3 | 6 | −3 | 0 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Colombia | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Caleb Yirenkyi: 1 gol (vs Panamá, 90+5', J1)
+- Kamaldeen Sulemana: 1 gol (18' vs Panamá)
 
-## Historial vs rivales del grupo
-- vs Inglaterra: 1-1 amistoso 2011. Mundial 2026 J2: 0-0.
-- vs Croacia: 1-1 amistoso 2014.
-- vs Panamá: 1-0 victoria ghanesa (Mundial 2026 J1, BMO Field Toronto, 2026-06-17).
+- Jordan Ayew: 1 gol (74' vs Inglaterra)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Ghana 1-1 Panamá
-- **Real:** Ghana 1-0 Panamá
-- **Diagnóstico:** El modelo dio empate, pero Ghana ganó sobre la hora con un gol de Yirenkyi en el 90+5'. Acertamos la paridad del partido, pero Ghana se quedó con los tres puntos y el arco en cero.
+- Jordan Ayew: 1 gol (74' vs Croacia)
 
----
-> Fuente: conocimiento del modelo 2026-05-27 (GFA).
+- Mohammed Kudus: 1 gol (51' vs Colombia, ronda de 32)
+
+### Disciplina en eliminatorias
+- Amarillas: Thomas Partey (2026-07-03 vs Colombia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Daniel Amartey (2026-06-17 vs Panamá); Mohammed Kudus (2026-06-17 vs Panamá); Tariq Lamptey (2026-06-23 vs Inglaterra); Daniel Amartey (2026-06-23 vs Inglaterra); Tariq Lamptey (2026-06-27 vs Croacia); Daniel Amartey (2026-06-27 vs Croacia)
+- Lesiones / molestias: —

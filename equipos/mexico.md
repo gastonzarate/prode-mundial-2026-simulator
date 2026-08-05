@@ -21,7 +21,7 @@
 - Defensa: 74
 - Arco: 78
 - Físico: 77
-- Moral: 88
+- Moral: 82
 - Cohesión: 78
 - Experiencia: 78
 - Agallas: 85
@@ -60,40 +60,47 @@
 4-3-3: Ochoa; J. Sánchez, Montes, Vásquez, Gallardo; E. Álvarez, L. Chávez, Pineda; Lozano, S. Giménez, Vega.
 
 ## Lesionados / Suspendidos
-- Sin sanciones para J3. César Montes vio la roja en J1 (vs Sudáfrica, 90+2'), cumplió la fecha de suspensión en J2 y está disponible para J3.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Arranque perfecto: victoria 2-0 vs Sudáfrica (Quiñones 9', Jiménez 67') y 1-0 vs Corea del Sur (Romo 50'). Líder del Grupo A con 6 puntos y el arco en cero.
-
-## Forma reciente (pre-Mundial + Mundial, últimos 5 partidos)
-- 2026-06-18 vs Corea del Sur: 1-0 (V) — Grupo A J2 Mundial 2026
-- 2026-06-11 vs Sudáfrica: 2-0 (V) — Grupo A J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Estados Unidos: 0-0 (E)
 - 2026-03-XX vs Honduras: 2-0 (V)
 - 2026-01-XX vs Chile: 1-0 (V)
+- 2025-11-XX vs Uruguay: 0-0 (E)
+- 2025-10-XX vs Ecuador: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 65/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 3  | 0  | +3 | 6   |
+| 3 | 2 | 1 | 0 | 4 | 2 | +2 | 7 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Inglaterra | 1-2 | Eliminado |
+| Ronda de 32 | Ecuador | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Julián Quiñones: 1 gol (vs Sudáfrica, 9', J1)
-- Raúl Jiménez: 1 gol (vs Sudáfrica, 67', J1)
-- Luis Romo: 1 gol (vs Corea del Sur, 50', J2)
+- Israel Reyes: 1 gol (51' vs Sudáfrica)
 
-## Historial vs rivales del grupo
-- vs Sudáfrica: 2-0 en J1 (2026-06-11, Azteca). Anteriormente: pocos enfrentamientos, último amistoso reciente con leve ventaja mexicana.
-- vs Corea del Sur: ventaja histórica de México (incluyendo Mundial 2018: México 1-2 Corea, derrota recordada).
-- vs Chequia: 1-1 en amistoso 2014, sin antecedentes mundialistas.
+- Roberto Alvarado: 1 gol (82' vs Corea del Sur)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** México 1-0 Sudáfrica
-- **Real:** México 2-0 Sudáfrica
-- **Diagnóstico:** Acertamos al ganador pero subestimamos la superioridad local; México fue más dominante de lo modelado (Quiñones marcó en el 9').
+- Roberto Alvarado: 1 gol (82' vs Chequia)
+- Raúl Jiménez: 1 gol (88' vs Chequia)
 
----
-> Fuente: WebSearch 2026-05-27 (TUDN, SI, ESPN). Lista preliminar; cierre oficial 1-jun-2026.
+- Santiago Giménez: 1 gol (31' vs Ecuador, ronda de 32)
+- Hirving Lozano: 1 gol (69' vs Ecuador, ronda de 32)
+
+- Santiago Giménez: 1 gol (39' vs Inglaterra, octavos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: César Montes (2026-07-05 vs Inglaterra)
+- Amarillas: Edson Álvarez (2026-06-30 vs Ecuador)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Luis Romo (2026-06-11 vs Sudáfrica); Jorge Sánchez (2026-06-18 vs Corea del Sur); César Montes (2026-06-18 vs Corea del Sur); Jorge Sánchez (2026-06-24 vs Chequia); César Montes (2026-06-24 vs Chequia)
+- Lesiones / molestias: —

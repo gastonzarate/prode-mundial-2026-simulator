@@ -1,30 +1,56 @@
-# 🇲🇽 México 2-0 Sudáfrica 🇿🇦
-**Grupo A · Jornada 1 · 2026-06-11 · Estadio Azteca, Ciudad de México · RESULTADO REAL**
+# México 1-0 Sudáfrica
 
-## Síntesis
-México abrió el Mundial 2026 con una victoria 2-0 sobre Sudáfrica en el Estadio Azteca. Julián Quiñones marcó temprano, a los 9', y Raúl Jiménez liquidó a los 67'. Sudáfrica terminó con nueve jugadores tras las expulsiones de Sphephelo Sithole (49') y Themba Zwane (84'), y México cerró con diez por la roja a César Montes en el descuento.
+## Metadata
+- Fecha: 2026-06-11
+- Hora: 13:00
+- Sede: Estadio Azteca, Ciudad de México
+- Grupo: A
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 9' ⚽ Julián Quiñones (México)
-- 49' 🟥 Sphephelo Sithole (Sudáfrica)
-- 67' ⚽ Raúl Jiménez (México)
-- 84' 🟥 Themba Zwane (Sudáfrica)
-- 90+2' 🟥 César Montes (México)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 9' Julián Quiñones (México)
-- 67' Raúl Jiménez (México)
+## Probabilidades previas
+- Gana México: 68%
+- Empate: 20%
+- Gana Sudáfrica: 12%
 
-## Formaciones (reales)
-- México (DT Javier Aguirre): Raúl Rangel; Israel Reyes, César Montes ©, Johan Vásquez, Jesús Gallardo; Érik Lira, Álvaro Fidalgo, Brian Gutiérrez; Roberto Alvarado, Raúl Jiménez, Julián Quiñones.
-- Sudáfrica (DT Hugo Broos): Ronwen Williams ©; Ime Okon, Nkosinathi Sibisi, Mbekezeli Mbokazi; Khuliso Mudau, Aubrey Modiba; Jayden Adams, Sphephelo Sithole, Teboho Mokoena; Lyle Foster, Iqraam Rayners.
+## XI inicial
+- México: Ochoa, J. Sánchez, Montes, Vásquez; Gallardo, E. Álvarez, L. Chávez, Pineda; Lozano, S. Giménez, Vega
+- Sudáfrica: R. Williams, Mudau, Sibisi, Mvala; Modiba, Mokoena, Adams, Maswanganyi; Mofokeng, Foster, Zwane
 
-## Ficha
-- Sede: Estadio Azteca, Ciudad de México · Asistencia: 80.824 · Árbitro: Wilton Sampaio (Brasil)
-- Estadísticas detalladas no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en Estadio Azteca, Ciudad de México.
+- 44' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 51' Gol de México: Israel Reyes define y deja el partido 1-0.
+- 69' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 82' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: México 1-0 · Real: México 2-0
-- El Prode acertó la victoria mexicana y el arco en cero, pero se quedó corto en el marcador y no previó las tres expulsiones.
+## Goles
+- México: Israel Reyes 51'
+- Sudáfrica: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group A
+## Tarjetas
+- México: Luis Romo
+- Sudáfrica: Bandile Shandu, Mothobi Mvala, Mbekezeli Mbokazi
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- México: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Sudáfrica: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| México | 58% | 14 | 4 | 8 | 10 |
+| Sudáfrica | 42% | 6 | 1 | 4 | 13 |
+
+## MVP
+- Israel Reyes
+
+## Resumen final
+México y Sudáfrica abrieron su participación en el Grupo A con un 1-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

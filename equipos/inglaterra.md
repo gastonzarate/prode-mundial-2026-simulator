@@ -60,40 +60,61 @@
 4-3-3: Pickford; Livramento, Stones, Guéhi, R. James; Rice, Mainoo, Bellingham; Saka, Kane, Rashford.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Arranque sólido como líder del Grupo L: goleada 4-2 a Croacia con doblete de Kane y empate 0-0 frente a Ghana en un partido trabado. 4 puntos y la clasificación bien encaminada, aunque el 0-0 dejó algo de sabor a poco ante un rival defensivo.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs Ghana: 0-0 (E) — Grupo L J2 Mundial 2026
-- 2026-06-17 vs Croacia: 4-2 (V) — Grupo L J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Brasil: 2-1 (V)
 - 2026-03-XX vs Italia: 1-1 (E)
 - 2025-11-XX vs Letonia: 5-0 (V)
+- 2025-10-XX vs Hungría: 3-1 (V)
+- 2025-09-XX vs Andorra: 4-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 82/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 4  | 2  | +2 | 4   |
+| 3 | 3 | 0 | 0 | 7 | 1 | +6 | 9 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Tercer puesto | Francia | 1-2 | Cuarto puesto |
+| Semifinales | Argentina | 1-2 | Eliminado en semifinales; jugará tercer puesto |
+| Cuartos de final | Noruega | 2-1 | Clasificado a semifinales |
+| Octavos de final | México | 2-1 | Clasificado a cuartos |
+| Ronda de 32 | RD del Congo | 3-0 | Clasificado a octavos |
 
 ### Goleadores propios
-- Harry Kane: 2 goles (vs Croacia, 12' pen y 42', J1)
-- Jude Bellingham: 1 gol (vs Croacia, 47', J1)
-- Marcus Rashford: 1 gol (vs Croacia, 85', J1)
+- Bukayo Saka: 1 gol (39' vs Ghana)
+- Harry Kane: 1 gol (51' vs Ghana)
 
-## Historial vs rivales del grupo
-- vs Croacia: balance histórico 4V-3E-1D; semifinal Rusia 2018 derrota 1-2. Mundial 2026 J1: 4-2 victoria inglesa.
-- vs Ghana: amistoso 2011: 1-1. Mundial 2026 J2: 0-0.
-- vs Panamá: 6-1 victoria inglesa Mundial 2018 fase grupos.
+- Bukayo Saka: 1 gol (39' vs Panamá)
+- Harry Kane: 1 gol (51' vs Panamá)
+- Marcus Rashford: 1 gol (63' vs Panamá)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Inglaterra 1-1 Croacia
-- **Real:** Inglaterra 4-2 Croacia
-- **Diagnóstico:** Subestimamos por completo a Inglaterra; el modelo dio empate y la realidad fue una goleada con doblete de Kane. El poder ofensivo de los Three Lions superó ampliamente lo simulado.
+- Harry Kane: 1 gol (19' vs RD del Congo, ronda de 32)
+- Bukayo Saka: 1 gol (47' vs RD del Congo, ronda de 32)
+- Jude Bellingham: 1 gol (81' vs RD del Congo, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (England Football, Sky Sports, ESPN).
+- Harry Kane: 1 gol (54' vs México, octavos de final)
+- Bukayo Saka: 1 gol (79' vs México, octavos de final)
+
+- Harry Kane: 1 gol (57' vs Noruega, cuartos de final)
+- Bukayo Saka: 1 gol (84' vs Noruega, cuartos de final)
+
+- Jude Bellingham: 1 gol (59' vs Argentina, semifinales)
+
+### Disciplina en eliminatorias
+- Amarillas: Declan Rice (2026-07-15 vs Argentina)
+- Amarillas: Declan Rice (2026-07-11 vs Noruega)
+- Amarillas: Jude Bellingham (2026-07-05 vs México)
+- Amarillas: Declan Rice (2026-07-01 vs RD del Congo)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Reece James (2026-06-23 vs Ghana); Dan Burn (2026-06-23 vs Ghana); Reece James (2026-06-27 vs Panamá); Dan Burn (2026-06-27 vs Panamá)
+- Lesiones / molestias: —

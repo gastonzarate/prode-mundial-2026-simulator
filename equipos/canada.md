@@ -62,40 +62,48 @@
 4-3-3: Crépeau; A. Johnston, Bombito, Cornelius, Adekugbe; Eustáquio, Koné, Sigur; Buchanan, J. David, Davies.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- Alphonso Davies: recuperado de la lesión muscular, disponible sólo para sumar minutos desde el banco.
+- Ismaël Koné: baja por lesión sufrida ante Catar.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs Catar: 6-0 (V) — Grupo B J2 Mundial 2026
-- 2026-06-12 vs Bosnia y Herzegovina: 1-1 (E) — Grupo B J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Estados Unidos: 1-1 (E)
 - 2026-03-XX vs Panamá: 3-1 (V)
 - 2025-11-XX vs Surinam: 4-0 (V)
+- 2025-10-XX vs México: 0-2 (D)
+- 2025-09-XX vs Australia: 2-2 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 66/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 7  | 1  | +6 | 4   |
+| 3 | 2 | 1 | 0 | 5 | 1 | +4 | 7 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Marruecos | 1-2 | Eliminado |
+| Ronda de 32 | Sudáfrica | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Cyle Larin: 2 goles (vs Bosnia, 78', J1; vs Catar, 16', J2)
-- Jonathan David: 3 goles (vs Catar, 29', 45+3' y 90+2', J2 — hat-trick)
-- Nathan Saliba: 1 gol (vs Catar, 64', J2)
+- Jonathan Osorio: 1 gol (47' vs Bosnia y Herzegovina)
+- Theo Bair: 1 gol (67' vs Bosnia y Herzegovina)
 
-## Historial vs rivales del grupo
-- vs Bosnia y Herzegovina: 1 PJ — 2026-06-12, 1-1 empate (J1 Mundial 2026).
-- vs Suiza: pocos enfrentamientos, balance favorable suizo.
-- vs Catar: sin antecedentes registrados relevantes.
+- Stephen Kone: 1 gol (82' vs Catar)
+- Jonathan David: 1 gol (88' vs Catar)
 
-## Estado de ánimo
-Tras el empate 1-1 vs Bosnia llegó la goleada 6-0 a Catar, con hat-trick de Jonathan David y doblete de Larin. El equipo explotó ofensivamente y se afianza como local con la mira puesta en el primer puesto del grupo.
+- Stephen Kone: 1 gol (82' vs Suiza)
+- Jonathan David: 1 gol (31' vs Sudáfrica, ronda de 32)
+- Tajon Buchanan: 1 gol (78' vs Sudáfrica, ronda de 32)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Canadá 0-0 Bosnia y Herzegovina
-- **Real:** Canadá 1-1 Bosnia y Herzegovina
-- **Diagnóstico:** Simulamos 0-0, fue 1-1; acertamos el empate pero ambos equipos sí marcaron — el simulador fue excesivamente conservador con la generación ofensiva canadiense.
+- Jonathan David: 1 gol (34' vs Marruecos, octavos de final)
 
----
-> Fuente: WebSearch 2026-05-27 (TSN, FoxSports, ESPN).
+### Disciplina en eliminatorias
+- Amarillas: Moïse Bombito (2026-07-04 vs Marruecos)
+- Amarillas: Stephen Eustáquio (2026-06-28 vs Sudáfrica)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Alistair Johnston (2026-06-12 vs Bosnia y Herzegovina); Niko Sigur (2026-06-12 vs Bosnia y Herzegovina); Derek Cornelius (2026-06-12 vs Bosnia y Herzegovina); Alistair Johnston (2026-06-18 vs Catar); Sam Adekugbe (2026-06-18 vs Catar); Alistair Johnston (2026-06-24 vs Suiza); Sam Adekugbe (2026-06-24 vs Suiza)
+- Lesiones / molestias: —

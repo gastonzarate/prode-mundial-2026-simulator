@@ -60,38 +60,53 @@
 4-3-3: Bounou; Hakimi, Aguerd, Saïss, Mazraoui; Amrabat, El Khannouss, Ounahi; B. Díaz, En-Nesyri, Ziyech.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- Achraf Hakimi: suspendido para cuartos por acumulación de dos amarillas en eliminatorias del prode.
 
-## Forma reciente (últimos 5 partidos, incl. Mundial)
-- 2026-06-19 vs Escocia: 1-0 (V) — Grupo C J2 Mundial 2026
-- 2026-06-13 vs Brasil: 1-1 (E) — Grupo C J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Túnez: 1-1 (E)
 - 2026-03-XX vs Burkina Faso: 2-0 (V)
 - 2025-11-XX vs Gabón: 5-1 (V)
+- 2025-10-XX vs RD Congo: 1-1 (E)
+- 2025-09-XX vs Zambia: 2-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 79/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 1 | 0 | 2  | 1  | +1 | 4   |
+| 3 | 3 | 0 | 0 | 5 | 0 | +5 | 9 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Cuartos de final | Francia | 1-2 | Eliminado en cuartos |
+| Octavos de final | Canadá | 2-1 | Clasificado a cuartos |
+| Ronda de 32 | Países Bajos | 0-1 | Eliminado |
 
 ### Goleadores propios
-- Ismael Saibari: 2 goles (vs Brasil, 21', J1; vs Escocia, 2', J2)
+- Achraf Hakimi: 1 gol (29' vs Brasil)
+- Ismael Saibari: 1 gol (17' vs Brasil)
 
-## Historial vs rivales del grupo
-- vs Brasil: amistoso 2023 victoria 2-1; **Mundial 2026 J1: Empate 1-1**.
-- vs Escocia: sin antecedentes mundialistas; 3-0 derrota marroquí Francia 1998.
-- vs Haití: sin antecedentes registrados.
+- Brahim Díaz: 1 gol (27' vs Escocia)
 
-## Estado de ánimo
-Arranque ideal: punto histórico 1-1 vs Brasil y victoria 1-0 sobre Escocia con gol madrugador de Saibari a los 2'. El Atlas comparte la cima del Grupo C con 4 puntos y un solo gol en contra.
+- Brahim Díaz: 1 gol (27' vs Haití)
+- Youssef En-Nesyri: 1 gol (39' vs Haití)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Marruecos 1-2 Brasil
-- **Real:** Marruecos 1-1 Brasil
-- **Diagnóstico:** Simulamos derrota 1-2 pero lograron empate 1-1; Bounou y la defensa marroquí son mejores de lo que reflejaban nuestros stats.
+- Brahim Díaz: 1 gol (58' vs Canadá, octavos de final)
+- Achraf Hakimi: 1 gol (82' vs Canadá, octavos de final)
 
----
-> Fuente: WebSearch 2026-05-27 (CAF, Hespress, FourFourTwo).
+- Youssef En-Nesyri: 1 gol (61' vs Francia, cuartos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Sofyan Amrabat (2026-07-09 vs Francia)
+- Amarillas: Achraf Hakimi (2026-07-04 vs Canadá)
+- Amarillas: Sofyan Amrabat, Achraf Hakimi (2026-06-29 vs Países Bajos)
+- Suspensión: Achraf Hakimi no podrá jugar los cuartos de final.
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Sofiane Boufal (2026-06-13 vs Brasil); Achraf Hakimi (2026-06-13 vs Brasil); Achraf Hakimi (2026-06-19 vs Escocia); Noussair Mazraoui (2026-06-19 vs Escocia); Achraf Hakimi (2026-06-24 vs Haití); Noussair Mazraoui (2026-06-24 vs Haití)
+- Lesiones / molestias: —

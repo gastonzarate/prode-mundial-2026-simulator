@@ -21,7 +21,7 @@
 - Defensa: 84
 - Arco: 78
 - Físico: 82
-- Moral: 72
+- Moral: 76
 - Cohesión: 84
 - Experiencia: 70
 - Agallas: 72
@@ -60,38 +60,42 @@
 4-3-3: Galíndez; Preciado, Pacho, Hincapié, Estupiñán; M. Caicedo, A. Franco, Páez; G. Plata, E. Valencia, J. Sarmiento.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-20 vs Curazao: 0-0 (E) — Grupo E J2 Mundial 2026
-- 2026-06-14 vs Costa de Marfil: 0-1 (D) — Grupo E J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Venezuela: 2-1 (V)
 - 2026-03-XX vs Chile: 1-0 (V)
 - 2025-11-XX vs Argentina: 0-1 (D)
+- 2025-10-XX vs Brasil: 1-1 (E)
+- 2025-09-XX vs Bolivia: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 51/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 0  | 1  | -1 | 1   |
+| 3 | 1 | 0 | 2 | 4 | 4 | 0 | 3 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | México | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Sin goles propios en el Mundial.
+- Kevin Rodríguez: 1 gol (6' vs Costa de Marfil)
 
-## Historial vs rivales del grupo
-- vs Alemania: balance 1V-1E históricos, partido amistoso 2-4 derrota.
-- vs Curazao: sin antecedentes registrados.
-- vs Costa de Marfil: sin antecedentes registrados.
+- Gonzalo Plata: 1 gol (88' vs Curazao)
+- Enner Valencia: 1 gol (14' vs Curazao)
 
-## Estado de ánimo
-Arranque para el olvido: derrota 0-1 vs Costa de Marfil y empate 0-0 vs Curazao sin poder convertir. La Tri suma apenas 1 punto, sigue sin marcar y se juega la clasificación en la última fecha.
+- Gonzalo Plata: 1 gol (88' vs Alemania)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Ecuador 1-0 Costa de Marfil
-- **Real:** Ecuador 0-1 Costa de Marfil
-- **Diagnóstico:** Error de resultado: simulamos victoria 1-0 pero perdieron 0-1; Costa de Marfil demostró más cohesión táctica de la proyectada.
+- Enner Valencia: 1 gol (52' vs México, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (Primicias, ESPN, Extra EC).
+### Disciplina en eliminatorias
+- Amarillas: Moisés Caicedo (2026-06-30 vs México)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Pervis Estupiñán (2026-06-14 vs Costa de Marfil); William Pacho (2026-06-14 vs Costa de Marfil); Joel Ordóñez (2026-06-14 vs Costa de Marfil); Joel Ordóñez (2026-06-20 vs Curazao); Piero Hincapié (2026-06-20 vs Curazao); Joel Ordóñez (2026-06-25 vs Alemania); Piero Hincapié (2026-06-25 vs Alemania)
+- Lesiones / molestias: —

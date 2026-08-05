@@ -1,34 +1,57 @@
-# 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra 4-2 Croacia 🇭🇷
-**Grupo L · Jornada 1 · 2026-06-17 · AT&T Stadium, Arlington · RESULTADO REAL**
+# Inglaterra 2-0 Croacia
 
-## Síntesis
-Inglaterra venció 4-2 a Croacia en el AT&T Stadium de Arlington, con un doblete de Harry Kane (uno de penal) que encaminó el triunfo. Croacia llegó a empatar parcialmente con goles de Martin Baturina y Petar Musa, pero Jude Bellingham y Marcus Rashford sellaron la victoria inglesa en el complemento.
+## Metadata
+- Fecha: 2026-06-17
+- Hora: 15:00
+- Sede: AT&T Stadium, Arlington
+- Grupo: L
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 12' ⚽ Harry Kane (Inglaterra) — de penal
-- 36' ⚽ Martin Baturina (Croacia)
-- 42' ⚽ Harry Kane (Inglaterra)
-- 45+5' ⚽ Petar Musa (Croacia)
-- 47' ⚽ Jude Bellingham (Inglaterra)
-- 85' ⚽ Marcus Rashford (Inglaterra)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 12' Harry Kane (Inglaterra) — penal
-- 36' Martin Baturina (Croacia)
-- 42' Harry Kane (Inglaterra)
-- 45+5' Petar Musa (Croacia)
-- 47' Jude Bellingham (Inglaterra)
-- 85' Marcus Rashford (Inglaterra)
+## Probabilidades previas
+- Gana Inglaterra: 48%
+- Empate: 25%
+- Gana Croacia: 27%
 
-## Formaciones (reales)
-- Inglaterra (DT Thomas Tuchel): Pickford; James, Konsa, Stones, O'Reilly; Anderson, Rice; Madueke, Bellingham, Gordon; Kane.
-- Croacia (DT Zlatko Dalić): Livaković; Stanišić, Šutalo, Vušković, Gvardiol; Modrić, Pašalić; Sučić, Baturina, Perišić; Musa.
+## XI inicial
+- Inglaterra: Pickford, Livramento, Stones, Guéhi; R. James, Rice, Mainoo, Bellingham; Saka, Kane, Rashford
+- Croacia: Livaković, Juranović, Gvardiol, Šutalo; Sosa, Modrić, Kovačić, M. Pašalić; Vlašić, Kramarić, Perišić
 
-## Ficha
-- Sede: AT&T Stadium, Arlington · Asistencia: 70.389 · Árbitro: Clément Turpin (Francia)
+## Relato minuto a minuto
+- 1' Arranca el partido en AT&T Stadium, Arlington.
+- 48' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 49' Gol de Inglaterra: Harry Kane define y deja el partido 1-0.
+- 65' Gol de Inglaterra: Eberechi Eze define y deja el partido 2-0.
+- 75' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 79' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Inglaterra 1-1 Croacia · Real: Inglaterra 4-2 Croacia
-- La simulación había previsto un empate ajustado, pero Inglaterra ganó con claridad pese a recibir dos goles.
+## Goles
+- Inglaterra: Harry Kane 49', Eberechi Eze 65'
+- Croacia: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group L
+## Tarjetas
+- Inglaterra: Jordan Henderson, Marc Guéhi
+- Croacia: Mateo Kovačić
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Inglaterra: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Croacia: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Inglaterra | 57% | 16 | 7 | 4 | 12 |
+| Croacia | 43% | 7 | 5 | 4 | 10 |
+
+## MVP
+- Harry Kane
+
+## Resumen final
+Inglaterra y Croacia abrieron su participación en el Grupo L con un 2-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

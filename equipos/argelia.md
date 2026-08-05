@@ -60,39 +60,42 @@
 4-3-3: M'Bolhi; Atal, A. Mandi, M. Tougai, Bensebaini; Bennacer, Aouar, Zerrouki; Mahrez, Amoura, Benrahma.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Jordania: 2-1 (V) — Grupo J J2 Mundial 2026
-- 2026-06-16 vs Argentina: 0-3 (D) — Grupo J J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Marruecos: 1-2 (D)
 - 2026-03-XX vs Togo: 3-0 (V)
 - 2025-11-XX vs Burkina Faso: 1-1 (E)
+- 2025-10-XX vs Mozambique: 3-0 (V)
+- 2025-09-XX vs Guinea: 2-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 53/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 2  | 4  | −2 | 3   |
+| 3 | 1 | 1 | 1 | 4 | 5 | −1 | 4 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Suiza | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Nadhir Benbouali: 1 gol (vs Jordania, 69', J2)
-- Amine Gouiri: 1 gol (vs Jordania, 82', J2)
+- Nabil Bentaleb: 1 gol (72' vs Argentina)
 
-## Historial vs rivales del grupo
-- vs Argentina: amistoso 4-3 victoria argelina (1982), 1V-0E-4D global.
-- vs Austria: sin antecedentes registrados.
-- vs Jordania: sin antecedentes registrados.
+- Riyad Mahrez: 1 gol (88' vs Jordania)
+- Yacine Brahimi: 1 gol (14' vs Jordania)
 
-## Estado de ánimo
-Reacción tras el 0-3 con Argentina: triunfo 2-1 sobre Jordania que la deja con 3 puntos y vida en el grupo. Benbouali y Gouiri dieron vuelta el partido y los Fennecs llegan a J3 jugándose la clasificación.
+- Riyad Mahrez: 1 gol (88' vs Austria)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Argelia 1-3 Argentina
-- **Real:** Argelia 0-3 Argentina
-- **Diagnóstico:** Simulamos que marcaban 1 gol (3-1) pero Argelia terminó 0-3 sin poder marcar; subestimamos la solidez defensiva argentina post-Qatar.
+- Riyad Mahrez: 1 gol (49' vs Suiza, ronda de 32)
 
----
-> Fuente: conocimiento del modelo 2026-05-27 (FAF).
+### Disciplina en eliminatorias
+- Amarillas: Ismaël Bennacer (2026-07-02 vs Suiza)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Jaouen Hadjam (2026-06-16 vs Argentina); Sofiane Feghouli (2026-06-16 vs Argentina); Houssem Aouar (2026-06-16 vs Argentina); Aïssa Mandi (2026-06-22 vs Jordania); Ramy Bensebaini (2026-06-22 vs Jordania); Aïssa Mandi (2026-06-27 vs Austria); Ramy Bensebaini (2026-06-27 vs Austria)
+- Lesiones / molestias: —

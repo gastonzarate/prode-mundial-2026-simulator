@@ -21,7 +21,7 @@
 - Defensa: 88
 - Arco: 90
 - Físico: 84
-- Moral: 95
+- Moral: 90
 - Cohesión: 86
 - Experiencia: 88
 - Agallas: 85
@@ -61,40 +61,62 @@
 
 ## Lesionados / Suspendidos
 - Eduardo Camavinga (VOL): no convocado por decisión técnica/forma irregular.
-- Sin sanciones ni lesionados reportados.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Irak: 3-0 (V) — Grupo I J2 Mundial 2026
-- 2026-06-16 vs Senegal: 3-1 (V) — Grupo I J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Alemania: 1-2 (D)
 - 2026-03-XX vs Croacia: 2-0 (V)
 - 2025-11-XX vs Israel: 4-0 (V)
+- 2025-10-XX vs Bélgica: 2-2 (E)
+- 2025-09-XX vs Italia: 3-1 (V)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 93/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 6  | 1  | +5 | 6   |
+| 3 | 3 | 0 | 0 | 7 | 2 | +5 | 9 |
+
+## Fase eliminatoria
+> Los cruces de cada nueva ronda siguen los clasificados reales de FIFA; los resultados del prode no determinan el cuadro siguiente.
+
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Tercer puesto | Inglaterra | 2-1 | Tercer puesto |
+| Semifinales | España | 1-2 | Eliminado en semifinales; jugará tercer puesto |
+| Cuartos de final | Marruecos | 2-1 | Clasificado a semifinales |
+| Octavos de final | Paraguay | 2-0 | Clasificado a cuartos |
+| Ronda de 32 | Suecia | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Kylian Mbappé: 4 goles (vs Senegal 66' y 90+6', J1; vs Irak 14' y 54', J2)
-- Bradley Barcola: 1 gol (vs Senegal, 82', J1)
-- Ousmane Dembélé: 1 gol (vs Irak, 66', J2)
+- Bradley Barcola: 1 gol (11' vs Senegal)
+- Jonathan Clauss: 1 gol (47' vs Senegal)
+- Michael Olise: 1 gol (58' vs Senegal)
 
-## Historial vs rivales del grupo
-- vs Senegal: amistoso 3-0 victoria francesa (2002 victoria senegalesa histórica).
-- vs Noruega: balance equilibrado, 4V-2E-2D francés.
-- vs Irak: sin antecedentes mundialistas.
+- Ousmane Dembélé: 1 gol (88' vs Irak)
+- Marcus Thuram: 1 gol (14' vs Irak)
 
-## Estado de ánimo
-Arranque perfecto: 3-1 vs Senegal y 3-0 vs Irak. Mbappé acumula 4 goles en dos partidos y Francia ya tiene la clasificación encaminada como líder del Grupo I con 6 puntos.
+- Ousmane Dembélé: 1 gol (88' vs Noruega)
+- Marcus Thuram: 1 gol (14' vs Noruega)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Francia 1-0 Senegal
-- **Real:** Francia 3-1 Senegal
-- **Diagnóstico:** Acertamos el ganador pero 3-1 vs 1-0 simulado; Francia fue más goleadora de lo modelado y Senegal también marcó cuando no lo esperábamos.
+- Kylian Mbappé: 1 gol (24' vs Suecia, ronda de 32)
+- Ousmane Dembélé: 1 gol (77' vs Suecia, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (Get French Football News, FIFA, GiveMeSport).
+- Kylian Mbappé: 1 gol (27' vs Paraguay, octavos de final)
+- Michael Olise: 1 gol (71' vs Paraguay, octavos de final)
+
+- Kylian Mbappé: 1 gol (35' vs Marruecos, cuartos de final)
+- Ousmane Dembélé: 1 gol (78' vs Marruecos, cuartos de final)
+
+- Kylian Mbappé: 1 gol (52' vs España, semifinales)
+
+### Disciplina en eliminatorias
+- Amarillas: William Saliba (2026-07-14 vs España)
+- Amarillas: Aurélien Tchouaméni (2026-07-09 vs Marruecos)
+- Amarillas: William Saliba (2026-07-04 vs Paraguay)
+- Amarillas: Aurélien Tchouaméni (2026-06-30 vs Suecia)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Dayot Upamecano (2026-06-16 vs Senegal); Ibrahima Konaté (2026-06-16 vs Senegal); Jonathan Clauss (2026-06-22 vs Irak); Theo Hernández (2026-06-22 vs Irak); Jonathan Clauss (2026-06-26 vs Noruega); Theo Hernández (2026-06-26 vs Noruega)
+- Lesiones / molestias: —

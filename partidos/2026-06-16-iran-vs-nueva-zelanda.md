@@ -1,32 +1,55 @@
-# 🇮🇷 Irán 2-2 Nueva Zelanda 🇳🇿
-**Grupo G · Jornada 1 · 2026-06-16 · SoFi Stadium, Inglewood · RESULTADO REAL**
+# Irán 0-0 Nueva Zelanda
 
-## Síntesis
-Irán y Nueva Zelanda igualaron 2-2 en un debut intenso en el SoFi Stadium. Elijah Just marcó dos veces para los neozelandeses (7' y 54'), pero Irán lo empató en ambas ocasiones, primero con Ramin Rezaeian a los 32' y luego con Mohammad Mohebi a los 64'. El reparto de puntos dejó al Grupo G abierto tras la primera jornada.
+## Metadata
+- Fecha: 2026-06-16
+- Hora: 03:00
+- Sede: SoFi Stadium, Inglewood
+- Grupo: G
+- Jornada: 1
 
-## Cronología (hechos reales)
-- 7' ⚽ Elijah Just (Nueva Zelanda)
-- 32' ⚽ Ramin Rezaeian (Irán)
-- 54' ⚽ Elijah Just (Nueva Zelanda)
-- 64' ⚽ Mohammad Mohebi (Irán)
-- 89' 🟨 Ehsan Hajsafi (Irán)
+## Supuestos de simulación
+- Simulación generada desde cero con stats internos del repo: ranking FIFA, ataque, mediocampo, defensa, arco, físico, moral, cohesión y experiencia.
+- Se consideró ventaja de localía cuando aplicaba por país/sede.
 
-## Goleadores
-- 7' Elijah Just (Nueva Zelanda)
-- 32' Ramin Rezaeian (Irán)
-- 54' Elijah Just (Nueva Zelanda)
-- 64' Mohammad Mohebi (Irán)
+## Probabilidades previas
+- Gana Irán: 71%
+- Empate: 17%
+- Gana Nueva Zelanda: 12%
 
-## Formaciones (reales)
-- Irán (DT Amir Ghalenoei): Alireza Beiranvand; Ramin Rezaeian, Shojae Khalilzadeh, Ali Nemati, Milad Mohammadi; Saman Ghoddos, Saeid Ezatolahi, Arya Yousefi; Mehdi Taremi, Shahriyar Moghanlou, Mohammad Mohebi.
-- Nueva Zelanda (DT Darren Bazeley): Max Crocombe; Tim Payne, Finn Surman, Michael Boxall, Liberato Cacace; Sarpreet Singh, Joe Bell, Marko Stamenić; Elijah Just, Chris Wood, Callum McCowatt.
+## XI inicial
+- Irán: Beiranvand, Moharrami, Kanaanizadegan, Khalilzadeh; Hajsafi, Ezatolahi, Ghoddos, Jahanbakhsh; Taremi, Azmoun, Mohebi
+- Nueva Zelanda: Crocombe, Payne, Boxall, Bindon; Cacace, Old, Stamenic, Bell; Singh, Wood, Barbarouses
 
-## Ficha
-- Sede: SoFi Stadium, Inglewood · Asistencia: 70.108 · Árbitro: César Arturo Ramos (México)
-- Tarjetas: amarilla para Hajsafi (89'). Sin tarjetas rojas. Estadísticas de juego (posesión, tiros) no disponibles en la fuente.
+## Relato minuto a minuto
+- 1' Arranca el partido en SoFi Stadium, Inglewood.
+- 37' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 54' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 65' Partido intenso, con ajustes tácticos y disputa fuerte en mitad de cancha.
+- 90+4' Final del partido.
 
-## Prode: simulado vs real
-- Simulado: Irán 2-0 Nueva Zelanda · Real: Irán 2-2 Nueva Zelanda
-- El Prode acertó los dos goles de Irán pero subestimó por completo a Nueva Zelanda, que con el doblete de Elijah Just rescató un empate que el modelo daba como imposible.
+## Goles
+- Irán: —
+- Nueva Zelanda: —
 
-> Fuente: Wikipedia — 2026 FIFA World Cup Group G
+## Tarjetas
+- Irán: Ali Gholizadeh, Saman Ghoddos
+- Nueva Zelanda: Clayton Lewis, Matthew Garbett, Tyler Bindon
+
+## Lesiones
+- Ninguna lesión relevante.
+
+## Cambios
+- Irán: rotó piezas ofensivas y reforzó el mediocampo en el tramo final.
+- Nueva Zelanda: buscó piernas frescas por bandas y ajuste defensivo tras el descanso.
+
+## Estadísticas
+| Equipo | Posesión | Tiros | Al arco | Córners | Faltas |
+|--------|----------|-------|---------|---------|--------|
+| Irán | 57% | 10 | 5 | 7 | 10 |
+| Nueva Zelanda | 43% | 6 | 3 | 4 | 14 |
+
+## MVP
+- Omid Ebrahimi
+
+## Resumen final
+Irán y Nueva Zelanda abrieron su participación en el Grupo G con un 0-0. El resultado actualiza la tabla del grupo y deja registrado el primer antecedente mundialista de ambos en esta simulación.

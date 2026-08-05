@@ -21,7 +21,7 @@
 - Defensa: 80
 - Arco: 76
 - Físico: 82
-- Moral: 78
+- Moral: 82
 - Cohesión: 82
 - Experiencia: 80
 - Agallas: 92
@@ -62,37 +62,30 @@
 ## Lesionados / Suspendidos
 - Nahitan Nández: excluido por decisión técnica de Bielsa.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-21 vs Cabo Verde: 2-2 (E) — Grupo H J2 Mundial 2026
-- 2026-06-15 vs Arabia Saudita: 1-1 (E) — Mundial Grupo H J1, penal polémico les quitó la victoria 🌧
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Paraguay: 0-1 (D)
 - 2026-03-XX vs Argentina: 0-0 (E)
 - 2025-11-XX vs Bolivia: 3-0 (V)
+- 2025-10-XX vs Colombia: 2-2 (E)
+- 2025-09-XX vs Brasil: 0-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 43/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 2 | 0 | 3  | 3  | 0  | 2   |
+| 3 | 2 | 0 | 1 | 5 | 2 | +3 | 6 |
 
 ### Goleadores propios
-- Maximiliano Araújo: 2 goles (vs Arabia Saudita, 80', J1; vs Cabo Verde, 44', J2)
-- Agustín Canobbio: 1 gol (vs Cabo Verde, 45+6', J2)
+- Luciano Rodríguez: 1 gol (88' vs Arabia Saudita)
+- Nicolás de la Cruz: 1 gol (25' vs Arabia Saudita)
 
-## Historial vs rivales del grupo
-- vs España: balance histórico cerca de 3-3-4 con leve ventaja española.
-- vs Cabo Verde: sin antecedentes registrados.
-- vs Arabia Saudita: Mundial 2018 (victoria 1-0) · Mundial 2026 J1 (1-1, penal polémico 🌧).
+- Maximiliano Gómez: 1 gol (88' vs Cabo Verde)
+- Darwin Núñez: 1 gol (14' vs Cabo Verde)
 
-## Estado de ánimo
-Dos empates que saben a poco: 1-1 vs Arabia Saudita y 2-2 vs Cabo Verde pese a ir dos veces arriba (doblete acumulado de Maxi Araújo, agónico de Canobbio en el 45+6'). La Celeste de Bielsa dejó puntos en el camino y se la juega en la última fecha.
+- Maximiliano Gómez: 1 gol (88' vs España)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Arabia Saudita 1-1 Uruguay
-- **Real:** Arabia Saudita 1-1 Uruguay
-- **Diagnóstico:** Resultado exacto 1-1 — acertamos el empate; la paridad Saudita-Uruguay fue correctamente modelada como el partido más equilibrado del grupo.
-
----
-> Fuente: WebSearch 2026-05-27 (El Observador, Infobae, Depor).
+### Disciplina y disponibilidad
+- Amarillas: Ronald Araújo (2026-06-15 vs Arabia Saudita); Nicolás de la Cruz (2026-06-15 vs Arabia Saudita); Nahitan Nández (excluido — lesión/decisión técnica) (2026-06-21 vs Cabo Verde); Sebastián Cáceres (2026-06-21 vs Cabo Verde); Nahitan Nández (excluido — lesión/decisión técnica) (2026-06-26 vs España); Sebastián Cáceres (2026-06-26 vs España)
+- Lesiones / molestias: —

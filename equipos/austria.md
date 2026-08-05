@@ -21,7 +21,7 @@
 - Defensa: 76
 - Arco: 72
 - Físico: 82
-- Moral: 73
+- Moral: 76
 - Cohesión: 84
 - Experiencia: 72
 - Agallas: 74
@@ -60,40 +60,37 @@
 4-2-2-2: Pentz; Posch, Danso, Alaba, Mwene; Seiwald, Laimer; Sabitzer, Baumgartner; Arnautović, Gregoritsch.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Argentina: 0-2 (D) — Grupo J J2 Mundial 2026
-- 2026-06-17 vs Jordania: 3-1 (V) — Grupo J J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Turquía: 2-1 (V)
 - 2026-03-XX vs Eslovenia: 1-1 (E)
 - 2025-11-XX vs Estonia: 2-0 (V)
+- 2025-10-XX vs Bosnia: 2-1 (V)
+- 2025-09-XX vs Bélgica: 1-0 (V)
 
 ## Carga física acumulada en el Mundial
-- 25/100
+- 54/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 3  | 3  | 0  | 3   |
+| 3 | 0 | 2 | 1 | 2 | 3 | −1 | 2 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | España | 0-2 | Eliminado |
 
 ### Goleadores propios
-- Romano Schmid: 1 gol (vs Jordania, 20', J1)
-- Marko Arnautović: 1 gol (vs Jordania, 90+12' pen, J1)
-- (además, autogol de Yazan Al-Arab a favor de Austria, vs Jordania 76', J1)
+- Karim Adeyemi: 1 gol (88' vs Argentina)
 
-## Historial vs rivales del grupo
-- vs Argentina: balance 2V-1E-6D para Argentina; último 1-2 derrota austriaca amistoso 2008.
-- vs Argelia: sin antecedentes registrados.
-- vs Jordania: 1V-0E-0D. Único partido: 2026-06-17, 2-0 (Grupo J, J1 Mundial).
+- Karim Adeyemi: 1 gol (88' vs Argelia)
 
-## Estado de ánimo
-Tras el buen debut 3-1 ante Jordania, cayó 0-2 con Argentina sin generar peligro. Queda con 3 puntos y se juega la clasificación en J3; el golpe ante la campeona del mundo deja dudas en ataque.
+### Disciplina en eliminatorias
+- Amarillas: Konrad Laimer (2026-07-02 vs España)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Austria 2-0 Jordania
-- **Real:** Austria 3-1 Jordania
-- **Diagnóstico:** Acertamos el ganador pero el real fue 3-1 vs nuestro 2-0 simulado; Jordania anotó un gol que no modelamos y Austria fue más goleadora.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (ÖFB).
+### Disciplina y disponibilidad
+- Amarillas: Florian Grillitsch (2026-06-17 vs Jordania); Stefan Posch (2026-06-22 vs Argentina); David Alaba (2026-06-22 vs Argentina); Stefan Posch (2026-06-27 vs Argelia); David Alaba (2026-06-27 vs Argelia)
+- Lesiones / molestias: —

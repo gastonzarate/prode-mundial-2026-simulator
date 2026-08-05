@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 72
 - Físico: 78
-- Moral: 59 *(-8 — goleada en contra J2)*
+- Moral: 70
 - Cohesión: 80
 - Experiencia: 70
 - Agallas: 65
@@ -60,38 +60,28 @@
 4-3-3: Dahmen; Dräger, Talbi, Bronn, Maâloul; Skhiri, Laïdouni, Ben Romdhane; Msakni, Jebali, Sliti.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-20 vs Japón: 0-4 (D) — Grupo F J2 Mundial 2026
-- 2026-06-14 vs Suecia: 1-5 (D) — Grupo F J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Marruecos: 1-1 (E)
 - 2026-03-XX vs Mauritania: 2-0 (V)
 - 2025-11-XX vs Namibia: 3-0 (V)
+- 2025-10-XX vs Liberia: 1-0 (V)
+- 2025-09-XX vs Guinea Ecuatorial: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 25/100 *(+13 J1; +12 J2)*
+- 43/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 1  | 9  | −8 | 0   |
+| 3 | 0 | 0 | 3 | 2 | 7 | −5 | 0 |
 
 ### Goleadores propios
-- Omar Rekik: 1 gol (vs Suecia, 43', J1)
+- Seifeddine Jaziri: 1 gol (16' vs Suecia)
 
-## Historial vs rivales del grupo
-- vs Países Bajos: sin antecedentes mundialistas.
-- vs Japón: amistoso 2-0 derrota tunecina 2023.
-- vs Suecia: 0V 1D — 2026-06-14 Túnez 1-5 Suecia (Grupo F J1).
+- Youssef Msakni: 1 gol (74' vs Japón)
 
-## Estado de ánimo
-Dos goleadas en contra (1-5 vs Suecia y 0-4 vs Japón) sentencian a Túnez: queda ELIMINADO sin puntos y con el peor saldo del grupo. Otra fase de grupos sin pasar de ronda, golpe duro al ánimo.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Derrota 0-1 vs Suecia
-- **Real:** Derrota 1-5 vs Suecia
-- **Diagnóstico:** Acertamos la derrota pero 1-5 vs 0-1 simulado; subestimamos la brecha Suecia-Túnez en capacidad ofensiva real.
-
----
-> Fuente: WebSearch 2026-05-27 (FIFA, Olympics.com, FourFourTwo).
+### Disciplina y disponibilidad
+- Amarillas: Naïm Sliti (2026-06-14 vs Suecia); Mohamed Dräger (2026-06-14 vs Suecia); Ali Maâloul (2026-06-14 vs Suecia); Mohamed Dräger (2026-06-21 vs Japón); Montassar Talbi (2026-06-21 vs Japón); Mohamed Dräger (2026-06-25 vs Países Bajos); Montassar Talbi (2026-06-25 vs Países Bajos)
+- Lesiones / molestias: —

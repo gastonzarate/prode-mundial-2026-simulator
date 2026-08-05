@@ -21,7 +21,7 @@
 - Defensa: 64
 - Arco: 66
 - Físico: 68
-- Moral: 59
+- Moral: 68
 - Cohesión: 88
 - Experiencia: 55
 - Agallas: 62
@@ -60,39 +60,26 @@
 3-5-2: Barsham; P. Miguel, Khoukhi, Al-Rawi; H. Ahmed, Hatem, Madibo, Boudiaf, T. Salman; Afif, Almoez Ali.
 
 ## Lesionados / Suspendidos
-- Homam Ahmed (DEF): roja directa (min. 33 vs Canadá, J2). **Suspendido para J3.**
-- Assim Madibo (VOL): roja directa (min. 51 vs Canadá, J2). **Suspendido para J3.**
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-18 vs Canadá: 0-6 (D) — Grupo B J2 Mundial 2026
-- 2026-06-13 vs Suiza: 1-1 (E) — Grupo B J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Uzbekistán: 0-1 (D)
 - 2026-03-XX vs Emiratos Árabes: 2-1 (V)
 - 2025-11-XX vs Irán: 1-2 (D)
+- 2025-10-XX vs Kuwait: 3-0 (V)
+- 2025-09-XX vs Corea del Norte: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 40/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 1 | 1 | 1  | 7  | -6 | 1   |
+| 3 | 0 | 0 | 3 | 0 | 4 | −4 | 0 |
 
 ### Goleadores propios
-- Sin goles propios en el Mundial. (El 1-1 vs Suiza en J1 fue por autogol de Miro Muheim.)
+- —
 
-## Historial vs rivales del grupo
-- vs Canadá: sin antecedentes registrados relevantes.
-- vs Suiza: 1-1 (E) — J1 Mundial 2026, 2026-06-13.
-- vs Bosnia y Herzegovina: sin antecedentes registrados.
-
-## Estado de ánimo
-La grata sorpresa del 1-1 vs Suiza se desplomó con la humillante goleada 0-6 ante Canadá, agravada por dos expulsiones (H. Ahmed y Madibo). Moral por el piso y eliminación prácticamente sellada.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Catar 0-2 Suiza
-- **Real:** Catar 1-1 Suiza
-- **Diagnóstico:** Error de resultado: simulamos derrota 0-2 pero Catar empató 1-1 con Suiza; subestimamos gravemente la cohesión y adaptación catarí fuera de Asia.
-
----
-> Fuente: WebSearch 2026-05-27 (QFA, Al Kass).
+### Disciplina y disponibilidad
+- Amarillas: Bassam Al-Rawi (2026-06-13 vs Suiza); Mohammed Waad (2026-06-13 vs Suiza); Jassem Gaber (2026-06-13 vs Suiza); Pedro Miguel (2026-06-18 vs Canadá); Tarek Salman (2026-06-18 vs Canadá); Pedro Miguel (2026-06-24 vs Bosnia y Herzegovina); Tarek Salman (2026-06-24 vs Bosnia y Herzegovina)
+- Lesiones / molestias: —

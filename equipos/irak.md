@@ -21,7 +21,7 @@
 - Defensa: 66
 - Arco: 68
 - Físico: 74
-- Moral: 57
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 50
 - Agallas: 62
@@ -60,38 +60,26 @@
 4-2-3-1: J. Hassan; Akam, S. Natiq, Sulaka, Ali Adnan; Resan, A. Attwan; B. Resan, S. Karim, M. Ali; A. Hussein.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-22 vs Francia: 0-3 (D) — Grupo I J2 Mundial 2026
-- 2026-06-16 vs Noruega: 1-4 (D) — Grupo I J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs EAU: 1-0 (V) — repechaje
 - 2026-03-XX vs Indonesia: 2-1 (V)
 - 2025-11-XX vs Kuwait: 1-0 (V)
+- 2025-10-XX vs Palestina: 2-0 (V)
+- 2025-09-XX vs Jordania: 0-0 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 42/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 0 | 0 | 2 | 1  | 7  | −6 | 0   |
+| 3 | 0 | 0 | 3 | 0 | 5 | −5 | 0 |
 
 ### Goleadores propios
-- Aymen Hussein: 1 gol (vs Noruega, 39', J1)
+- —
 
-## Historial vs rivales del grupo
-- vs Francia: sin antecedentes registrados.
-- vs Senegal: sin antecedentes registrados.
-- vs Noruega: 0V-0E-1D (1-4 · Mundial 2026 J1 · 2026-06-16).
-
-## Estado de ánimo
-Dos derrotas y eliminación: 1-4 vs Noruega y 0-3 vs Francia. El salto de nivel ante los europeos fue demasiado grande y el equipo cierra el grupo sin puntos.
-
-## Simulación vs Realidad (J1)
-- **Simulado:** Irak 0-4 Noruega
-- **Real:** Noruega 4-1 Irak
-- **Diagnóstico:** Acertamos la goleada de Noruega (4 goles) pero Irak anotó 1 gol que no simulamos; el simulador cometió el error de dejarlos en 0.
-
----
-> Fuente: conocimiento del modelo 2026-05-27 (IFA).
+### Disciplina y disponibilidad
+- Amarillas: Ibrahim Bayesh (2026-06-16 vs Noruega); Akam Hashim (2026-06-22 vs Francia); Ali Adnan (2026-06-22 vs Francia); Akam Hashim (2026-06-26 vs Senegal); Ali Adnan (2026-06-26 vs Senegal)
+- Lesiones / molestias: —

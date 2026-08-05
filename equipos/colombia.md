@@ -21,7 +21,7 @@
 - Defensa: 78
 - Arco: 78
 - Físico: 78
-- Moral: 91
+- Moral: 88
 - Cohesión: 82
 - Experiencia: 78
 - Agallas: 78
@@ -60,40 +60,49 @@
 4-3-3: C. Vargas; D. Muñoz, D. Sánchez, J. Lucumí, J. Mojica; Lerma, R. Ríos, James; J. Arias, L. Suárez, L. Díaz.
 
 ## Lesionados / Suspendidos
-- Sin sanciones ni lesionados reportados.
+- (ninguno al inicio del Mundial)
 
-## Estado de ánimo
-Arranque perfecto: 3-1 vs Uzbekistán en J1 (Daniel Muñoz 40', Luis Díaz 65', Campaz 90+9') y 1-0 vs RD del Congo en J2 (Daniel Muñoz 76', su segundo gol en dos partidos). Líder del Grupo K con 6 puntos (GF4, GC1) y la clasificación encaminada.
-
-## Forma reciente (últimos 5 partidos)
-- 2026-06-23 vs RD del Congo: 1-0 (V) — Grupo K J2 Mundial 2026 🌍
-- 2026-06-17 vs Uzbekistán: 3-1 (V) — Grupo K J1 Mundial 2026 🌍
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Brasil: 1-2 (D)
 - 2026-03-XX vs Uruguay: 2-2 (E)
 - 2025-11-XX vs Argentina: 1-0 (V)
+- 2025-10-XX vs Bolivia: 4-0 (V)
+- 2025-09-XX vs Chile: 1-1 (E)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 63/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 2 | 0 | 0 | 4  | 1  | +3 | 6   |
+| 3 | 2 | 1 | 0 | 5 | 1 | +4 | 7 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Octavos de final | Suiza | 2-1 | Clasificado a cuartos |
+| Ronda de 32 | Ghana | 2-1 | Clasificado a octavos |
 
 ### Goleadores propios
-- Daniel Muñoz: 2 goles (40' vs Uzbekistán J1; 76' vs RD del Congo J2)
-- Luis Díaz: 1 gol (65' vs Uzbekistán, J1)
-- Jáminton Campaz: 1 gol (90+9' vs Uzbekistán, J1)
+- Jhon Córdoba: 1 gol (80' vs Uzbekistán)
+- Jhon Lucumí: 1 gol (7' vs Uzbekistán)
 
-## Historial vs rivales del grupo
-- vs Portugal: 1-0 derrota colombiana amistoso 2024.
-- vs Uzbekistán: 3-1 (V) — 2026-06-17, Grupo K J1.
-- vs RD Congo: 1-0 (V) — 2026-06-23, Grupo K J2.
+- Luis Díaz: 1 gol (14' vs RD del Congo)
+- Jhon Córdoba: 1 gol (27' vs RD del Congo)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** Uzbekistán 0-2 Colombia
-- **Real:** Uzbekistán 1-3 Colombia
-- **Diagnóstico:** Acertamos al ganador pero subestimamos la pegada cafetera: Colombia firmó un 3-1 con doblete de figuras y cierre de Campaz en el descuento. En J2 ganó 1-0 a RD del Congo con otro gol de Daniel Muñoz.
+- Luis Díaz: 1 gol (14' vs Portugal)
 
----
-> Fuente: WebSearch 2026-05-27 (El Tiempo, Infobae, Semana).
+- Luis Díaz: 1 gol (26' vs Ghana, ronda de 32)
+- Jhon Córdoba: 1 gol (68' vs Ghana, ronda de 32)
+
+- Luis Díaz: 1 gol (60' vs Suiza, octavos de final)
+- Jhon Córdoba: 1 gol (86' vs Suiza, octavos de final)
+
+### Disciplina en eliminatorias
+- Amarillas: Dávinson Sánchez (2026-07-07 vs Suiza)
+- Amarillas: Jefferson Lerma (2026-07-03 vs Ghana)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Juan Camilo Portilla (2026-06-17 vs Uzbekistán); Kevin Castaño (2026-06-17 vs Uzbekistán); Jefferson Lerma (2026-06-17 vs Uzbekistán); Daniel Muñoz (2026-06-23 vs RD del Congo); Dávinson Sánchez (2026-06-23 vs RD del Congo); Daniel Muñoz (2026-06-27 vs Portugal); Dávinson Sánchez (2026-06-27 vs Portugal)
+- Lesiones / molestias: —

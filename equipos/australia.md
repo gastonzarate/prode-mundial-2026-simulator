@@ -21,7 +21,7 @@
 - Defensa: 72
 - Arco: 80
 - Físico: 80
-- Moral: 73
+- Moral: 78
 - Cohesión: 78
 - Experiencia: 68
 - Agallas: 82
@@ -62,37 +62,42 @@
 ## Lesionados / Suspendidos
 - Riley McGree (VOL): lesión muscular, fuera del Mundial.
 
-## Forma reciente (últimos 5 partidos)
-- 2026-06-19 vs Estados Unidos: 0-2 (D) — Grupo D J2 Mundial 2026
-- 2026-06-14 vs Turquía: 2-0 (V) — Grupo D J1 Mundial 2026
+## Forma reciente (pre-Mundial, últimos 5 partidos)
 - 2026-03-XX vs Indonesia: 5-1 (V)
 - 2026-03-XX vs Bahréin: 1-0 (V)
 - 2025-11-XX vs Canadá: 2-2 (E)
+- 2025-10-XX vs Corea del Sur: 1-1 (E)
+- 2025-09-XX vs Japón: 1-2 (D)
 
 ## Carga física acumulada en el Mundial
-- 26/100
+- 53/100
 
 ## Historial en el Mundial (en curso)
 | PJ | G | E | P | GF | GC | DG | Pts |
 |----|---|---|---|----|----|----|-----|
-| 2  | 1 | 0 | 1 | 2  | 2  | 0  | 3   |
+| 3 | 1 | 2 | 0 | 6 | 3 | +3 | 5 |
+
+## Fase eliminatoria
+| Ronda | Rival | Resultado | Estado |
+|-------|-------|-----------|--------|
+| Ronda de 32 | Egipto | 1-2 | Eliminado |
 
 ### Goleadores propios
-- Nestory Irankunda: 1 gol (vs Turquía, 27', J1)
-- Connor Metcalfe: 1 gol (vs Turquía, 75', J1)
+- Harry Souttar: 1 gol (32' vs Turquía)
+- Mitchell Duke: 1 gol (76' vs Turquía)
+- Nestory Irankunda: 1 gol (5' vs Turquía)
 
-## Historial vs rivales del grupo
-- vs EE.UU.: 1V-1E balance reciente.
-- vs Paraguay: sin antecedentes registrados relevantes.
-- vs Turquía: sin antecedentes registrados.
+- Mathew Leckie: 1 gol (27' vs Estados Unidos)
+- Mitchell Duke: 1 gol (39' vs Estados Unidos)
 
-## Estado de ánimo
-Arranque agridulce: gran 2-0 vs Turquía y luego caída 0-2 vs el anfitrión EE.UU. Con 3 puntos, los Socceroos llegan a J3 jugándose la clasificación.
+- Mathew Leckie: 1 gol (27' vs Paraguay)
 
-## Simulación vs Realidad (J1)
-- **Simulado:** 1-1 vs Turquía
-- **Real:** 2-0 vs Turquía
-- **Diagnóstico:** Error de resultado: simulamos 1-1 pero Australia ganó 2-0; subestimamos la evolución del fútbol australiano y sobrevaloramos a Turquía.
+- Nestory Irankunda: 1 gol (44' vs Egipto, ronda de 32)
 
----
-> Fuente: WebSearch 2026-05-27 (Socceroos.com.au, FIFA Series).
+### Disciplina en eliminatorias
+- Amarillas: Jackson Irvine (2026-07-03 vs Egipto)
+- Las amarillas simples de la fase de grupos quedaron canceladas al terminar esa fase.
+
+### Disciplina y disponibilidad
+- Amarillas: Keanu Baccus (2026-06-14 vs Turquía); Milos Degenek (2026-06-14 vs Turquía); Milos Degenek (2026-06-19 vs Estados Unidos); Aziz Behich (2026-06-19 vs Estados Unidos); Milos Degenek (2026-06-25 vs Paraguay); Aziz Behich (2026-06-25 vs Paraguay)
+- Lesiones / molestias: —
